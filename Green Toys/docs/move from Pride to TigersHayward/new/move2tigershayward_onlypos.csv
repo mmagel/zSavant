@@ -1,0 +1,154 @@
+Internal ID,Item,Name,Display Name,Description,Type,On Hand,Available,Preferred Location,NEW LOCATION,QTY2TRNSFR,LINE,EXTID
+3780,LNR-YW LNR-YW,LNR-YW,LNR-YW,Cupcake Liner Yellow ,Inventory Item,1,1,Pride Industries,153 Tigers Hayward,1,1,pride2tigers
+3784,FRST-VN FRST-VN,FRST-VN,FRST-VN,Cupcake Frosting Vanilla ,Inventory Item,2,2,Pride Industries,153 Tigers Hayward,2,2,pride2tigers
+3941,LBBK-1191 LBBK-1191,LBBK-1191,LBBK-1191,Book & Launch Boat Set - Closed Box ,Assembly/Bill of Materials,3,3,Pride Industries,153 Tigers Hayward,3,3,pride2tigers
+3799,AKCC-1194 AKCC-1194,AKCC-1194,AKCC-1194,Cupcakes Coloring & Activity Kit ,Assembly/Bill of Materials,5,,Pride Industries,153 Tigers Hayward,5,4,pride2tigers
+3786,LNR-PK LNR-PK,LNR-PK,LNR-PK,Cupcake Liner Pink ,Inventory Item,5,5,Pride Industries,153 Tigers Hayward,5,5,pride2tigers
+3778,FRST-PK FRST-PK,FRST-PK,FRST-PK,Cupcake Frosting Pink ,Inventory Item,6,6,Pride Industries,153 Tigers Hayward,6,6,pride2tigers
+3779,CAK-VN CAK-VN,CAK-VN,CAK-VN,Cupcake Cake Vanilla ,Inventory Item,9,9,Pride Industries,153 Tigers Hayward,9,7,pride2tigers
+3781,FRST-YW FRST-YW,FRST-YW,FRST-YW,Cupcake Frosting Yellow ,Inventory Item,9,9,Pride Industries,153 Tigers Hayward,9,8,pride2tigers
+223,SUG02R-PK2 SUG02R-PK2,SUG02R-PK2,SUG02R-PK2,PBK Pink Sugar Bowl Base 2013 - Holes added 07/15/2013,Inventory Item,9,9,Pride Industries,153 Tigers Hayward,9,9,pride2tigers
+3782,CAK-PK CAK-PK,CAK-PK,CAK-PK,Cupcake Cake Pink ,Inventory Item,23,23,Pride Industries,153 Tigers Hayward,23,10,pride2tigers
+1764,PKG18x9x9 PKG18x9x9,PKG18x9x9,PKG18x9x9,"18x9x9 RSC 32ECT, 25/Bundle MOQ 25 ..",Inventory Item,45.2,45.2,Pride Industries,153 Tigers Hayward,45.2,11,pride2tigers
+3797,AKVC-1192 AKVC-1192,AKVC-1192,AKVC-1192,Vehicles Coloring & Activity Kit,Assembly/Bill of Materials,49,37,Pride Industries,153 Tigers Hayward,49,12,pride2tigers
+3783,LNR-VN LNR-VN,LNR-VN,LNR-VN,Cupcake Liner Vanilla ,Inventory Item,51,51,Pride Industries,153 Tigers Hayward,51,13,pride2tigers
+2252,PKG20x15x9 PKG20x15x9,PKG20x15x9,PKG20x15x9,"20x15x9 RSC 32ECT, 15/Bundle MOQ 25",Inventory Item,58,58,Pride Industries,153 Tigers Hayward,58,14,pride2tigers
+1769,PKG16x12x10 PKG16x12x10,PKG16x12x10,PKG16x12x10,"16x12x10 RSC 32ECT, 25/Bundle MOQ 25 ..",Inventory Item,58.5,58.5,Pride Industries,153 Tigers Hayward,58.5,15,pride2tigers
+441,PKGFLWAMCT PKGFLWAMCT,PKGFLWAMCT,PKGFLWAMCT,Build-a-Bouquet Master Carton - 200E,Inventory Item,59.82582,59.82582,Pride Industries,153 Tigers Hayward,59.82582,16,pride2tigers
+1765,PKG24x12x8 PKG24x12x8,PKG24x12x8,PKG24x12x8,"24x12x8 RSC 32ECT, 25/Bundle - MOQ 25....",Inventory Item,63,63,Pride Industries,153 Tigers Hayward,63,17,pride2tigers
+332,LID01R-PK2 LID01R-PK2,LID01R-PK2,LID01R-PK2,PBK Sugar Bowl Lid,Inventory Item,89,89,Pride Industries,153 Tigers Hayward,89,18,pride2tigers
+1758,PKGCHP1THRMT PKGCHP1THRMT,PKGCHP1THRMT,PKGCHP1THRMT,"Character 4 Pack Retail Thermoform Top(0.020 Thick) - SD - MOQ 20,000..",Inventory Item,108,108,Pride Industries,153 Tigers Hayward,108,19,pride2tigers
+1469,PKGCSCARTL PKGCSCARTL,PKGCSCARTL,PKGCSCARTL,Scooper Retail Package w. Insert - 150E,Inventory Item,109,109,Pride Industries,153 Tigers Hayward,109,20,pride2tigers
+3801,PKGBKTGMCT PKGBKTGMCT,PKGBKTGMCT,PKGBKTGMCT,Green Toys Book with Toy Closed Gift Box Master ,Inventory Item,119.36,119.36,Pride Industries,153 Tigers Hayward,119.36,21,pride2tigers
+1766,PKG12x9x6 PKG12x9x6,PKG12x9x6,PKG12x9x6,"12x9x6 RSC 32ECT, 25/Bundle MOQ 25 ..",Inventory Item,124.36,124.36,Pride Industries,153 Tigers Hayward,124.36,22,pride2tigers
+429,PKGTLSMCT02 PKGTLSMCT02,PKGTLSMCT02,PKGTLSMCT02,Tool Set Master Carton - New Design - 200C,Inventory Item,176.07228,176.07228,Pride Industries,153 Tigers Hayward,176.07228,23,pride2tigers
+258,KTB01R-PK2 KTB01R-PK2,KTB01R-PK2,KTB01R-PK2,PBK Pink Kettle Bottom - Redesign,Inventory Item,200,200,Pride Industries,153 Tigers Hayward,200,24,pride2tigers
+224,LID02R-Y LID02R-Y,LID02R-Y,LID02R-Y,Lid Tea Pot - New Design - Yellow 129C - CC10106976WE,Inventory Item,211,849,Pride Industries,153 Tigers Hayward,211,25,pride2tigers
+1759,PKGCHP1MCT PKGCHP1MCT,PKGCHP1MCT,PKGCHP1MCT,"Character 4 Pack Master Carton - 200T..- MOQ 1,250",Inventory Item,255,255,Pride Industries,153 Tigers Hayward,255,26,pride2tigers
+277,CKN01R CKN01R,CKN01R,CKN01R,Sandwich Shop Chicken Fillet,Inventory Item,276,276,Pride Industries,153 Tigers Hayward,276,27,pride2tigers
+260,CRM01R-R CRM01R-R,CRM01R-R,CRM01R-R,Creamer - Red Cap - CC10126692WE,Inventory Item,324,324,Pride Industries,153 Tigers Hayward,324,28,pride2tigers
+345,CUP01R-PK2 CUP01R-PK2,CUP01R-PK2,CUP01R-PK2,PBK Pink Tea Cup,Inventory Item,334,334,Pride Industries,153 Tigers Hayward,334,29,pride2tigers
+1761,PKGCHP1THRMB PKGCHP1THRMB,PKGCHP1THRMB,PKGCHP1THRMB,"Character 4 Pack Retail Thermoform Bottom (0.020 Thick) - SD - MOQ 20,000..",Inventory Item,342,342,Pride Industries,153 Tigers Hayward,342,30,pride2tigers
+2251,PKG15x15x10 PKG15x15x10,PKG15x15x10,PKG15x15x10,"15x15x10RSC 32ECT, 25/Bundle MOQ 25",Inventory Item,351,276,Pride Industries,153 Tigers Hayward,351,31,pride2tigers
+1757,PKGCHP1RTL PKGCHP1RTL,PKGCHP1RTL,PKGCHP1RTL,"Character 4 Pack Retail Package - 0.024Kraftpak 2 color - MOQ 15,000..",Inventory Item,379,379,Pride Industries,153 Tigers Hayward,379,32,pride2tigers
+344,CRM01R-PK2 CRM01R-PK2,CRM01R-PK2,CRM01R-PK2,PBK Pink Creamer,Inventory Item,435,435,Pride Industries,153 Tigers Hayward,435,33,pride2tigers
+222,SUG02R-Y SUG02R-Y,SUG02R-Y,SUG02R-Y,Sugar Bowl Base - Holes added - Yellow 129C - CC10106976WE,Inventory Item,449,3337,Pride Industries,153 Tigers Hayward,449,34,pride2tigers
+324,LID02R-PK2 LID02R-PK2,LID02R-PK2,LID02R-PK2,PBK Pink Kettle Lid,Inventory Item,460,460,Pride Industries,153 Tigers Hayward,460,35,pride2tigers
+3800,PKGBKTGRTL PKGBKTGRTL,PKGBKTGRTL,PKGBKTGRTL,Green Toys Book with Toy Closed Gift Box Retail ,Inventory Item,531,531,Pride Industries,153 Tigers Hayward,531,36,pride2tigers
+245,LID01R-Y LID01R-Y,LID01R-Y,LID01R-Y,Lid Sugar Bowl - Yellow 129 - CC10106976WE,Inventory Item,564,3452,Pride Industries,153 Tigers Hayward,564,37,pride2tigers
+4079,PKG20x16x10 PKG20x16x10,PKG20x16x10,PKG20x16x10,"20x16x10 RSC 32ECT, 15/Bundle ",Inventory Item,592,592,Pride Industries,153 Tigers Hayward,592,38,pride2tigers
+3792,CCKA-2PKC CCKA-2PKC,CCKA-2PKC,CCKA-2PKC,Cupcake 2 Pack Version C (VYP+PVY),Assembly/Bill of Materials,664.92,664.92,Pride Industries,153 Tigers Hayward,664.92,39,pride2tigers
+3790,CCKA-2PKA CCKA-2PKA,CCKA-2PKA,CCKA-2PKA,Cupcake 2 Pack Version A (PVY + YPV),Assembly/Bill of Materials,673.92,673.92,Pride Industries,153 Tigers Hayward,673.92,40,pride2tigers
+3791,CCKA-2PKB CCKA-2PKB,CCKA-2PKB,CCKA-2PKB,Cupcake 2 Pack Version B (YPV+VYP),Assembly/Bill of Materials,701.92,701.92,Pride Industries,153 Tigers Hayward,701.92,41,pride2tigers
+3942,PKG10x10x2 PKG10x10x2,PKG10x10x2,PKG10x10x2,PBK custom book packs bundles of 50. ,Inventory Item,715.3,715.3,Pride Industries,153 Tigers Hayward,715.3,42,pride2tigers
+1038,SAU01R-LV2 SAU01R-LV2,SAU01R-LV2,SAU01R-LV2,PBK Lavender Cup Saucer,Inventory Item,719,719,Pride Industries,153 Tigers Hayward,719,43,pride2tigers
+419,PKGSTPMCT02 PKGSTPMCT02,PKGSTPMCT02,PKGSTPMCT02,Pizza Parlor Master Carton - New Design - 200T,Inventory Item,766.21996,766.21996,Pride Industries,153 Tigers Hayward,766.21996,44,pride2tigers
+267,BUN01R-B BUN01R-B,BUN01R-B,BUN01R-B,Sandwich Shop Burger Bun Bottom,Inventory Item,875,875,Pride Industries,153 Tigers Hayward,875,45,pride2tigers
+354,SPN01R-PK2 SPN01R-PK2,SPN01R-PK2,SPN01R-PK2,PBK Pink Spoon,Inventory Item,910,910,Pride Industries,153 Tigers Hayward,910,46,pride2tigers
+452,PKGSLDAMCT PKGSLDAMCT,PKGSLDAMCT,PKGSLDAMCT,Salad Set Master Carton - 200T,Inventory Item,935.97332,935.97332,Pride Industries,153 Tigers Hayward,935.97332,47,pride2tigers
+352,PETUNIA-PK PETUNIA-PK,PETUNIA-PK,PETUNIA-PK,Petunia - Pink,Inventory Item,1046,1392,Pride Industries,153 Tigers Hayward,1046,48,pride2tigers
+261,CUP01R-R CUP01R-R,CUP01R-R,CUP01R-R,Tea Cup - Red Cap - CC10126692WE,Inventory Item,1110,14662,Pride Industries,153 Tigers Hayward,1110,49,pride2tigers
+232,KTB01R-B KTB01R-B,KTB01R-B,KTB01R-B,Kettle Bottom - Redesign - Blue 298U-CC10106972WE,Inventory Item,1163,1381,Pride Industries,153 Tigers Hayward,1163,50,pride2tigers
+3774,FLAKA-ASSY FLAKA-ASSY,FLAKA-ASSY,FLAKA-ASSY,Flower- Activity kit assembly A ,Assembly/Bill of Materials,1249,1249,Pride Industries,153 Tigers Hayward,1249,51,pride2tigers
+3775,FLAKB-ASSY FLAKB-ASSY,FLAKB-ASSY,FLAKB-ASSY,Flower- Activity kit assembly B,Assembly/Bill of Materials,1249,1249,Pride Industries,153 Tigers Hayward,1249,52,pride2tigers
+3776,FLAKC-ASSY FLAKC-ASSY,FLAKC-ASSY,FLAKC-ASSY,Flower- Activity kit assembly C,Assembly/Bill of Materials,1249,1249,Pride Industries,153 Tigers Hayward,1249,53,pride2tigers
+3777,FLAKD-ASSY FLAKD-ASSY,FLAKD-ASSY,FLAKD-ASSY,Flower- Activity kit assembly D,Assembly/Bill of Materials,1249,1249,Pride Industries,153 Tigers Hayward,1249,54,pride2tigers
+296,DAISY-SML-YW DAISY-SML-YW,DAISY-SML-YW,DAISY-SML-YW,Daisy - Small - Yellow,Inventory Item,1445,1445,Pride Industries,153 Tigers Hayward,1445,55,pride2tigers
+339,DAISY-PLG-PK DAISY-PLG-PK,DAISY-PLG-PK,DAISY-PLG-PK,Daisy Plug - Pink,Inventory Item,1454,1454,Pride Industries,153 Tigers Hayward,1454,56,pride2tigers
+307,LILY-SML-PR LILY-SML-PR,LILY-SML-PR,LILY-SML-PR,Lily - Small - Purple,Inventory Item,1891,7392,Pride Industries,153 Tigers Hayward,1891,57,pride2tigers
+413,PKGFLWARIS01 PKGFLWARIS01,PKGFLWARIS01,PKGFLWARIS01,Build-a-Bouquet Retail Insert - Flower Part holder - 150E,Inventory Item,1891,1891,Pride Industries,153 Tigers Hayward,1891,58,pride2tigers
+3940,SCBK-1190 SCBK-1190,SCBK-1190,SCBK-1190,Book & Scooper Set - Closed Box ,Assembly/Bill of Materials,1901,1900,Pride Industries,153 Tigers Hayward,1901,59,pride2tigers
+4221,PKGDSTMCT PKGDSTMCT,PKGDSTMCT,PKGDSTMCT,Dough Set Master Carton; 200T  ,Inventory Item,2000,2000,Pride Industries,153 Tigers Hayward,2000,60,pride2tigers
+276,BUN01R-T BUN01R-T,BUN01R-T,BUN01R-T,Sandwich Shop Burger Bun Top,Inventory Item,2085,2085,Pride Industries,153 Tigers Hayward,2085,61,pride2tigers
+312,PETUNIA-PLG-YW PETUNIA-PLG-YW,PETUNIA-PLG-YW,PETUNIA-PLG-YW,Petunia Plug - Yellow,Inventory Item,2099,2099,Pride Industries,153 Tigers Hayward,2099,62,pride2tigers
+282,BUR01R BUR01R,BUR01R,BUR01R,Sandwich Shop Burger Patty,Inventory Item,2218,2218,Pride Industries,153 Tigers Hayward,2218,63,pride2tigers
+3951,PKGCST-INS-2 qty PKGCST-INS-2 qty,PKGCST-INS-2 qty,PKGCST-INS-2 qty,Inserts for Scooper,Inventory Item,2508,2508,Pride Industries,153 Tigers Hayward,2508,64,pride2tigers
+346,LILY-PLG-PK LILY-PLG-PK,LILY-PLG-PK,LILY-PLG-PK,Lily Plug - Pink,Inventory Item,2555,2555,Pride Industries,153 Tigers Hayward,2555,65,pride2tigers
+451,PKGFLWARTL PKGFLWARTL,PKGFLWARTL,PKGFLWARTL,Build-a-Bouquet Retail Package - 150E,Inventory Item,2557,2392,Pride Industries,153 Tigers Hayward,2557,66,pride2tigers
+327,PETUNIA-PLG-PK PETUNIA-PLG-PK,PETUNIA-PLG-PK,PETUNIA-PLG-PK,Petunia Plug - Pink,Inventory Item,2571,2571,Pride Industries,153 Tigers Hayward,2571,67,pride2tigers
+256,BWLY-SLDA BWLY-SLDA,BWLY-SLDA,BWLY-SLDA,Yellow Bowl for Salad Set - EcoPrime,Inventory Item,2646,2646,Pride Industries,153 Tigers Hayward,2646,68,pride2tigers
+453,PKGSLDARTL PKGSLDARTL,PKGSLDARTL,PKGSLDARTL,Salad Set Retail Carton - 150E,Inventory Item,2710,2710,Pride Industries,153 Tigers Hayward,2710,69,pride2tigers
+319,DAISY-SML-PK DAISY-SML-PK,DAISY-SML-PK,DAISY-SML-PK,Daisy - Small - Pink,Inventory Item,2964,2964,Pride Industries,153 Tigers Hayward,2964,70,pride2tigers
+1035,CHS01R-P CHS01R-P,CHS01R-P,CHS01R-P,Pizza Parlor Cheese,Inventory Item,2987,2987,Pride Industries,153 Tigers Hayward,2987,71,pride2tigers
+294,DAISY-LRG-YW DAISY-LRG-YW,DAISY-LRG-YW,DAISY-LRG-YW,Daisy - Large - Yellow,Inventory Item,2992,2992,Pride Industries,153 Tigers Hayward,2992,72,pride2tigers
+348,PETUNIA-YW PETUNIA-YW,PETUNIA-YW,PETUNIA-YW,Petunia - Yellow,Inventory Item,3122,3122,Pride Industries,153 Tigers Hayward,3122,73,pride2tigers
+325,LILY-LRG-PK LILY-LRG-PK,LILY-LRG-PK,LILY-LRG-PK,Lily - Large - Pink,Inventory Item,3147,3147,Pride Industries,153 Tigers Hayward,3147,74,pride2tigers
+4262,PKGTLSBSLVA ,PKGTLSBSLVA,,BlueToolSet Sleeve_V17003917 ,Inventory Item,3216,8400,Pride Industries,153 Tigers Hayward,3216,75,pride2tigers
+351,SLDA-SAL SLDA-SAL,SLDA-SAL,SLDA-SAL,Salad Set - Salt,Inventory Item,3239,4007,Pride Industries,153 Tigers Hayward,3239,76,pride2tigers
+283,PEP01R-G PEP01R-G,PEP01R-G,PEP01R-G,Pizza Parlor Green Peppers,Inventory Item,3383,3383,Pride Industries,153 Tigers Hayward,3383,77,pride2tigers
+334,LILY-PLG-YW LILY-PLG-YW,LILY-PLG-YW,LILY-PLG-YW,Lily Plug - Yellow,Inventory Item,3396,3396,Pride Industries,153 Tigers Hayward,3396,78,pride2tigers
+286,SPN01R-SLDA SPN01R-SLDA,SPN01R-SLDA,SPN01R-SLDA,Orange Spoon for Salad Set,Inventory Item,3434,3434,Pride Industries,153 Tigers Hayward,3434,79,pride2tigers
+2156,PKGSNWTAG PKGSNWTAG,PKGSNWTAG,PKGSNWTAG,Green Toys Sand and Water Tag - Mohawk 100% recycled tags - Full color (2 sided) - 5K Pricing..,Inventory Item,3511,3511,Pride Industries,153 Tigers Hayward,3511,80,pride2tigers
+306,LILY-LRG-YW LILY-LRG-YW,LILY-LRG-YW,LILY-LRG-YW,Lily - Large - Yellow,Inventory Item,3514,3514,Pride Industries,153 Tigers Hayward,3514,81,pride2tigers
+280,TOM01R-G TOM01R-G,TOM01R-G,TOM01R-G,Pizza Parlor Green Tomatoes,Inventory Item,3555,3555,Pride Industries,153 Tigers Hayward,3555,82,pride2tigers
+314,SLDA-OIL SLDA-OIL,SLDA-OIL,SLDA-OIL,Salad Set - Olive Oil,Inventory Item,3558,4326,Pride Industries,153 Tigers Hayward,3558,83,pride2tigers
+285,SPK01R-SLDA SPK01R-SLDA,SPK01R-SLDA,SPK01R-SLDA,Orange Spork for Salad Set,Inventory Item,3583,3583,Pride Industries,153 Tigers Hayward,3583,84,pride2tigers
+287,CUT01R CUT01R,CUT01R,CUT01R,Pizza Parlor Pizza Cutter,Inventory Item,3809,3809,Pride Industries,153 Tigers Hayward,3809,85,pride2tigers
+4226,PKGMTDSLV PKGMTDSLV,PKGMTDSLV,PKGMTDSLV,Tool Essentials Retail Sleeve; 4CP 16PT CHIP C1S #23165621-16  ,Inventory Item,3850,3850,Pride Industries,153 Tigers Hayward,3850,86,pride2tigers
+337,SLDA-PEP SLDA-PEP,SLDA-PEP,SLDA-PEP,Salad Set - Pepper,Inventory Item,3860,4628,Pride Industries,153 Tigers Hayward,3860,87,pride2tigers
+318,DAISY-LRG-PK DAISY-LRG-PK,DAISY-LRG-PK,DAISY-LRG-PK,Daisy - Large - Pink,Inventory Item,4052,4052,Pride Industries,153 Tigers Hayward,4052,88,pride2tigers
+4225,PKGCMDSLV PKGCMDSLV,PKGCMDSLV,PKGCMDSLV,Cake Maker Retail Sleeve; 4CP 16PT CHIP C1S #23165621-16  ,Inventory Item,4175,4175,Pride Industries,153 Tigers Hayward,4175,89,pride2tigers
+308,LILY-SML-YW LILY-SML-YW,LILY-SML-YW,LILY-SML-YW,Lily - Small - Yellow,Inventory Item,4418,4418,Pride Industries,153 Tigers Hayward,4418,90,pride2tigers
+4274,FLWA2-1285 FLWA2-1285,FLWA2-1285,FLWA2-1285,Green Toys Build-a-Bouquet 4C ,Assembly/Bill of Materials,4442,4328,Pride Industries,153 Tigers Hayward,4442,91,pride2tigers
+4261,PKGTLSPSLVA PKGTLSPSLVA,PKGTLSPSLVA,PKGTLSPSLVA,PinkToolSet Sleeve_V17003917 ,Inventory Item,4526,8750,Pride Industries,153 Tigers Hayward,4526,92,pride2tigers
+326,LILY-SML-PK LILY-SML-PK,LILY-SML-PK,LILY-SML-PK,Lily - Small - Pink,Inventory Item,4613,4613,Pride Industries,153 Tigers Hayward,4613,93,pride2tigers
+411,PKGFLWARIS02 PKGFLWARIS02,PKGFLWARIS02,PKGFLWARIS02,Build-a-Bouquet Retail Insert - 4 Color Storage Box for parts,Inventory Item,4747,4747,Pride Industries,153 Tigers Hayward,4747,94,pride2tigers
+323,DAISY-PLG-YW DAISY-PLG-YW,DAISY-PLG-YW,DAISY-PLG-YW,Daisy Plug - Yellow,Inventory Item,4856,4856,Pride Industries,153 Tigers Hayward,4856,95,pride2tigers
+343,SLDA-VIN SLDA-VIN,SLDA-VIN,SLDA-VIN,Salad Set Vinegar,Inventory Item,4994,5762,Pride Industries,153 Tigers Hayward,4994,96,pride2tigers
+288,SAU01R-P SAU01R-P,SAU01R-P,SAU01R-P,Pizza Parlor Pizza Sauce,Inventory Item,5091,5091,Pride Industries,153 Tigers Hayward,5091,97,pride2tigers
+412,PKGSTPRIS PKGSTPRIS,PKGSTPRIS,PKGSTPRIS,Pizza Parlor Retail Insert - White Pizza box - 1 Color 150T,Inventory Item,5178,7770,Pride Industries,153 Tigers Hayward,5178,98,pride2tigers
+331,CST01R CST01R,CST01R,CST01R,Pizza Parlor Crust,Inventory Item,5203,5203,Pride Industries,153 Tigers Hayward,5203,99,pride2tigers
+309,LTC01R LTC01R,LTC01R,LTC01R,Sandwich Shop Lettuce,Inventory Item,5357,5357,Pride Industries,153 Tigers Hayward,5357,100,pride2tigers
+250,SCF01R-PR SCF01R-PR,SCF01R-PR,SCF01R-PR,Screwdriver Flat - Purple - CC10107344WE,Inventory Item,5428,5428,Pride Industries,153 Tigers Hayward,5428,101,pride2tigers
+431,PKGSTPRIS02 PKGSTPRIS02,PKGSTPRIS02,PKGSTPRIS02,Pizza Parlor Retail Insert - Kraft - 150T,Inventory Item,5616,5616,Pride Industries,153 Tigers Hayward,5616,102,pride2tigers
+239,SCP01R-PR SCP01R-PR,SCP01R-PR,SCP01R-PR,Screwdriver Phillips - Purple - CC10107344WE,Inventory Item,5696,5696,Pride Industries,153 Tigers Hayward,5696,103,pride2tigers
+252,HAN01R-GR HAN01R-GR,HAN01R-GR,HAN01R-GR,Tool Box Handle - Green - CC10106972WE,Inventory Item,5907,5907,Pride Industries,153 Tigers Hayward,5907,104,pride2tigers
+1034,PKGSTPRTL02 PKGSTPRTL02,PKGSTPRTL02,PKGSTPRTL02,Pizza Parlor Retail Package - New Design - 150T,Inventory Item,5914,5914,Pride Industries,153 Tigers Hayward,5914,105,pride2tigers
+284,SAW01R-GR SAW01R-GR,SAW01R-GR,SAW01R-GR,Saw - Green - CC10106972WE,Inventory Item,6306,6306,Pride Industries,153 Tigers Hayward,6306,106,pride2tigers
+420,PKGTEARTL02 PKGTEARTL02,PKGTEARTL02,PKGTEARTL02,Tea Set Retail Package - BU1493 BLUE - for TEAB-1074,Inventory Item,6333,6333,Pride Industries,153 Tigers Hayward,6333,107,pride2tigers
+274,TBX01R-PK TBX01R-PK,TBX01R-PK,TBX01R-PK,Toolbox - Pink - CC10107335WE,Inventory Item,6397,6397,Pride Industries,153 Tigers Hayward,6397,108,pride2tigers
+618,FLWA-1012 FLWA-1012,FLWA-1012,FLWA-1012,Green Toys Build-a-Bouquet,Assembly/Bill of Materials,6428,2570,Pride Industries,153 Tigers Hayward,6428,109,pride2tigers
+246,PEP01R-R PEP01R-R,PEP01R-R,PEP01R-R,Sandwich Shop and Pizza Parlor Red Peppers,Inventory Item,6436,6436,Pride Industries,153 Tigers Hayward,6436,110,pride2tigers
+268,HAM01R-PR HAM01R-PR,HAM01R-PR,HAM01R-PR,Hammer - Purple - CC10107344WE,Inventory Item,6959,6959,Pride Industries,153 Tigers Hayward,6959,111,pride2tigers
+415,PKGTLSRTL02 PKGTLSRTL02,PKGTLSRTL02,PKGTLSRTL02,Tool Set Retail Carton w/Insert - New Design - 150E,Inventory Item,6971,6971,Pride Industries,153 Tigers Hayward,6971,112,pride2tigers
+273,PLI01R-GR PLI01R-GR,PLI01R-GR,PLI01R-GR,Pliers - Green - CC10106972WE,Inventory Item,7057,7057,Pride Industries,153 Tigers Hayward,7057,113,pride2tigers
+238,SCP01R-GR SCP01R-GR,SCP01R-GR,SCP01R-GR,Screwdriver Phillips - DK Green - CC10118086WE,Inventory Item,7067,7067,Pride Industries,153 Tigers Hayward,7067,114,pride2tigers
+1037,TBX01R-BL TBX01R-BL,TBX01R-BL,TBX01R-BL,Toolbox - CC10133673WE Blue ,Inventory Item,7186,7186,Pride Industries,153 Tigers Hayward,7186,115,pride2tigers
+4264,PKGCLSDSHRT PKGCLSDSHRT,PKGCLSDSHRT,PKGCLSDSHRT,Closed Short_V17003916_Retail ,Inventory Item,7592,17000,Pride Industries,153 Tigers Hayward,7592,116,pride2tigers
+279,SAW01R-YW SAW01R-YW,SAW01R-YW,SAW01R-YW,Saw - Yellow - CC10106976WE,Inventory Item,7618,7618,Pride Industries,153 Tigers Hayward,7618,117,pride2tigers
+298,MSH01R MSH01R,MSH01R,MSH01R,Pizza Parlor Mushrooms,Inventory Item,7922,7922,Pride Industries,153 Tigers Hayward,7922,118,pride2tigers
+316,CHS01R-S CHS01R-S,CHS01R-S,CHS01R-S,Sandwich Shop Cheese,Inventory Item,7979,7979,Pride Industries,153 Tigers Hayward,7979,119,pride2tigers
+4220,PKGDSTRTL PKGDSTRTL,PKGDSTRTL,PKGDSTRTL,Dough Set Retail Carton; 1C Flexo kraft; 23165621-12-F-Box ,Inventory Item,8000,8000,Pride Industries,153 Tigers Hayward,8000,120,pride2tigers
+313,PKL01R PKL01R,PKL01R,PKL01R,Sandwich Shop Pickles,Inventory Item,8246,8246,Pride Industries,153 Tigers Hayward,8246,121,pride2tigers
+262,HAM01R-GR HAM01R-GR,HAM01R-GR,HAM01R-GR,Hammer - DK Green - CC10118086WE,Inventory Item,8320,8320,Pride Industries,153 Tigers Hayward,8320,122,pride2tigers
+269,PLI01R-YW PLI01R-YW,PLI01R-YW,PLI01R-YW,Pliers - Yellow - CC10106976WE,Inventory Item,8366,8366,Pride Industries,153 Tigers Hayward,8366,123,pride2tigers
+272,WRE01R-YW WRE01R-YW,WRE01R-YW,WRE01R-YW,Wrench - Yellow - CC10106976WE,Inventory Item,8445,8445,Pride Industries,153 Tigers Hayward,8445,124,pride2tigers
+221,MES01R MES01R,MES01R,MES01R,"16"" mesh bag, 100% recycled, clear, heat sealed on one side",Inventory Item,8494,17902,Pride Industries,153 Tigers Hayward,8494,125,pride2tigers
+275,WRE01R-GR WRE01R-GR,WRE01R-GR,WRE01R-GR,Wrench - Green - CC10106972WE,Inventory Item,8645,8645,Pride Industries,153 Tigers Hayward,8645,126,pride2tigers
+333,LILY-PLG-PR LILY-PLG-PR,LILY-PLG-PR,LILY-PLG-PR,Lily Plug - Purple,Inventory Item,8849,8849,Pride Industries,153 Tigers Hayward,8849,127,pride2tigers
+247,SCF01R-GR SCF01R-GR,SCF01R-GR,SCF01R-GR,Screwdriver Flat - DK Green - CC10118086WE,Inventory Item,9232,9232,Pride Industries,153 Tigers Hayward,9232,128,pride2tigers
+241,TOM01R-R TOM01R-R,TOM01R-R,TOM01R-R,Sandwich Shop and Pizza Parlor Red Tomatoes,Inventory Item,9533,9533,Pride Industries,153 Tigers Hayward,9533,129,pride2tigers
+311,PETUNIA-PLG-PR PETUNIA-PLG-PR,PETUNIA-PLG-PR,PETUNIA-PLG-PR,Petunia Plug - Purple,Inventory Item,9592,9592,Pride Industries,153 Tigers Hayward,9592,130,pride2tigers
+347,PETUNIA-PR PETUNIA-PR,PETUNIA-PR,PETUNIA-PR,Petunia - Purple,Inventory Item,10021,10021,Pride Industries,153 Tigers Hayward,10021,131,pride2tigers
+295,DAISY-SML-PR DAISY-SML-PR,DAISY-SML-PR,DAISY-SML-PR,Daisy - Small - Purple,Inventory Item,10166,10166,Pride Industries,153 Tigers Hayward,10166,132,pride2tigers
+305,LILY-LRG-PR LILY-LRG-PR,LILY-LRG-PR,LILY-LRG-PR,Lily - Large - Purple,Inventory Item,10549,10549,Pride Industries,153 Tigers Hayward,10549,133,pride2tigers
+322,DAISY-PLG-PR DAISY-PLG-PR,DAISY-PLG-PR,DAISY-PLG-PR,Daisy Plug - Purple,Inventory Item,10830,10830,Pride Industries,153 Tigers Hayward,10830,134,pride2tigers
+293,DAISY-LRG-PR DAISY-LRG-PR,DAISY-LRG-PR,DAISY-LRG-PR,Daisy - Large - Purple,Inventory Item,10982,10982,Pride Industries,153 Tigers Hayward,10982,135,pride2tigers
+299,PPR01R PPR01R,PPR01R,PPR01R,Pizza Parlor Pepperoni,Inventory Item,12160,12160,Pride Industries,153 Tigers Hayward,12160,136,pride2tigers
+255,ONI01R ONI01R,ONI01R,ONI01R,Sandwich Shop and Pizza Parlor Onions,Inventory Item,12457,12457,Pride Industries,153 Tigers Hayward,12457,137,pride2tigers
+253,HAN01R-YW HAN01R-YW,HAN01R-YW,HAN01R-YW,Toolbox Handle - Yellow - CC10106976WE,Inventory Item,13300,13300,Pride Industries,153 Tigers Hayward,13300,138,pride2tigers
+290,STSA-OP STSA-OP,STSA-OP,STSA-OP,Sandwich Shop Order Pad,Inventory Item,13485,13485,Pride Industries,153 Tigers Hayward,13485,139,pride2tigers
+1458,PKGDKDGTHRM PKGDKDGTHRM,PKGDKDGTHRM,PKGDKDGTHRM,Green Toys Duck/Dog Thermoform Insert - 100% PCRPET - 0.025 Thickness - 5% Mark-up - 70K Pricing,Inventory Item,13825,25,Pride Industries,153 Tigers Hayward,13825,140,pride2tigers
+242,CON01R-GR CON01R-GR,CON01R-GR,CON01R-GR,Connector 2-Hole - DK Green - CC10118086WE,Inventory Item,14082,14082,Pride Industries,153 Tigers Hayward,14082,141,pride2tigers
+248,CON01R-PR CON01R-PR,CON01R-PR,CON01R-PR,Connector 2-Hole - Purple - CC10107344WE,Inventory Item,14338,14338,Pride Industries,153 Tigers Hayward,14338,142,pride2tigers
+2151,PKGSNWHDR2 PKGSNWHDR2,PKGSNWHDR2,PKGSNWHDR2,"Green Toys Sand & Water Play Header Card Bag - 6.25x5  - MOQ 20K; 23"" 3.6g 69 die mesh bag attached..",Inventory Item,14994,14994,Pride Industries,153 Tigers Hayward,14994,143,pride2tigers
+301,STPA-OP STPA-OP,STPA-OP,STPA-OP,Pizza Parlor Order Pad,Inventory Item,16285,16285,Pride Industries,153 Tigers Hayward,16285,144,pride2tigers
+2166,PKGSNWHDR1 PKGSNWHDR1,PKGSNWHDR1,PKGSNWHDR1,"Green Toys Sand & Water Play Header Card Bag - 5.25x6.5  - MOQ 20K; 23"" 3.6g 69 die mesh bag attached..",Inventory Item,16510,16510,Pride Industries,153 Tigers Hayward,16510,145,pride2tigers
+4080,MES03R MES03R,MES03R,MES03R,"31"" mesh bag, 100% recycled, clear, heat sealed on one side ",Inventory Item,20368,20368,Pride Industries,153 Tigers Hayward,20368,146,pride2tigers
+363,NUT01R NUT01R,NUT01R,NUT01R,Nut Grey,Inventory Item,23784,23784,Pride Industries,153 Tigers Hayward,23784,147,pride2tigers
+361,BLT01R BLT01R,BLT01R,BLT01R,Bolt Grey,Inventory Item,25354,25354,Pride Industries,153 Tigers Hayward,25354,148,pride2tigers
+259,SAU01R-B SAU01R-B,SAU01R-B,SAU01R-B,Saucer - Blue 298U - CC10126439WE,Inventory Item,26089,26089,Pride Industries,153 Tigers Hayward,26089,149,pride2tigers
+362,NAI01R NAI01R,NAI01R,NAI01R,Nail Grey,Inventory Item,31563,31563,Pride Industries,153 Tigers Hayward,31563,150,pride2tigers
+231,FLW-STEM-GR-SML FLW-STEM-GR-SML,FLW-STEM-GR-SML,FLW-STEM-GR-SML,Build-a-Bouquet Flower Stems - Light Green - Small,Inventory Item,48544,48544,Pride Industries,153 Tigers Hayward,48544,151,pride2tigers
+230,FLW-STEM-GR-LRG FLW-STEM-GR-LRG,FLW-STEM-GR-LRG,FLW-STEM-GR-LRG,Build-a-Bouquet Flower Stems - Light Green - Large,Inventory Item,58130,58130,Pride Industries,153 Tigers Hayward,58130,152,pride2tigers
+249,FLW-BASE-BR FLW-BASE-BR,FLW-BASE-BR,FLW-BASE-BR,Build-a-Bouquet Flower Base - Dark Green,Inventory Item,125571,125571,Pride Industries,153 Tigers Hayward,125571,153,pride2tigers

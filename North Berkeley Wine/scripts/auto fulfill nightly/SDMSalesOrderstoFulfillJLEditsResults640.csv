@@ -1,0 +1,435 @@
+Internal ID,so internal id,Amount,Date,Document Number,Status,Type,Name,Location,invoice status,Fulfilling/Receiving Transaction,Paying Transaction,Ref To Invoice Number
+486180,486178,313.20,1/17/2018,70145,Pending Fulfillment,Sales Order,Herb Jackson,Retail / MLK,Deposited, , ,
+485847,485846,92.78,1/16/2018,70099,Pending Fulfillment,Sales Order,Jill Mazmanian,Retail / MLK,Open, , ,0
+485857,485099,357.00,1/15/2018,70040,Pending Fulfillment,Sales Order,Kevin Reynolds,Retail / MLK,Deposited, , ,0
+485864,485863,42.61,1/16/2018,70106,Pending Fulfillment,Sales Order,Lesa Hellebrand,Retail / MLK,Not Deposited, , ,0
+485996,485995,124.55,1/16/2018,70107,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+485998,485997,172.72,1/16/2018,70108,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+486002,484802,1260.00,1/12/2018,69989,Pending Fulfillment,Sales Order,Zuni Cafe,,Open, , ,0
+486003,485423,396.00,1/15/2018,70087,Pending Fulfillment,Sales Order,Fat Angel,,Open, , ,0
+486004,485856,648.00,1/16/2018,70104,Pending Fulfillment,Sales Order,District San Jose,,Open, , ,0
+486005,484804,448.32,1/12/2018,69991,Pending Fulfillment,Sales Order,Passionfish,,Open, , ,0
+486007,485999,1080.00,1/16/2018,70109,Pending Fulfillment,Sales Order,Cecconi's WH,,Open, , ,0
+486008,486000,558.00,1/16/2018,70110,Pending Fulfillment,Sales Order,Workshop Kitchen & Bar,,Open, , ,0
+486009,486001,676.80,1/16/2018,70111,Pending Fulfillment,Sales Order,Du Vin Wines & Spirits,,Open, , ,0
+486010,486006,534.60,1/16/2018,70112,Pending Fulfillment,Sales Order,Waterbar,,Open, , ,0
+486011,485741,442.80,1/16/2018,70096,Pending Fulfillment,Sales Order,Barndiva,,Open, , ,0
+486014,486013,708.00,1/16/2018,70114,Pending Fulfillment,Sales Order,Christy Hill,,Open, , ,0
+486016,486015,776.10,1/16/2018,70115,Pending Fulfillment,Sales Order,Sunshine Foods,,Open, , ,0
+486018,484801,299.98,1/12/2018,69988,Pending Fulfillment,Sales Order,Michael Havens,Retail / MLK,Deposited, , ,0
+486020,486019,1262.02,1/16/2018,70117,Pending Fulfillment,Sales Order,Press Club,,Open, , ,0
+486021,486017,1112.40,1/16/2018,70116,Pending Fulfillment,Sales Order,Farmshop,,Open, , ,0
+486022,485727,442.80,1/16/2018,70091,Pending Fulfillment,Sales Order,Bi-Rite Market - Divisadero,,Open, , ,0
+486023,486012,534.60,1/16/2018,70113,Pending Fulfillment,Sales Order,Verve,,Open, , ,0
+486026,486025,26.00,1/16/2018,70119,Pending Fulfillment,Sales Order,Pat Laudel,Retail / MLK,Deposited, , ,0
+486030,486029,123.20,1/16/2018,70122,Pending Fulfillment,Sales Order,Michael Lancaster,Retail / MLK,Deposited, , ,0
+486034,486032,18.00,1/16/2018,70124,Pending Fulfillment,Sales Order,Michael Lancaster,Retail / MLK,Deposited, , ,0
+486035,486033,780.00,1/16/2018,70125,Pending Fulfillment,Sales Order,Norah,,Open, , ,0
+486037,486036,399.60,1/16/2018,70126,Pending Fulfillment,Sales Order,Tom Quinn MD,Retail / MLK,Deposited, , ,0
+486039,486038,796.80,1/16/2018,70127,Pending Fulfillment,Sales Order,Michael Mina Restaurant,,Open, , ,0
+486042,486041,480.00,1/16/2018,70129,Pending Fulfillment,Sales Order,Sellands's Market and Cafe,,Open, , ,0
+486048,486028,99.00,1/16/2018,70121,Pending Fulfillment,Sales Order,Bounty Hunter,,Open, , ,0
+486049,486044,534.60,1/16/2018,70130,Pending Fulfillment,Sales Order,Nopa,,Open, , ,0
+486050,486045,84.00,1/16/2018,70131,Pending Fulfillment,Sales Order,Market of Choice - Eugene (Willamette),,Open, , ,0
+486053,486052,77.05,1/16/2018,70134,Pending Fulfillment,Sales Order,Brittany Jefferson,Retail / MLK,Open, , ,0
+486054,486051,356.40,1/16/2018,70133,Pending Fulfillment,Sales Order,China Live,,Open, , ,0
+486058,486057,10.28,1/16/2018,70136,Pending Fulfillment,Sales Order,Roger Lambert,Retail / MLK,Deposited, , ,0
+486062,486061,32.88,1/16/2018,70138,Pending Fulfillment,Sales Order,Wahid Afzal,Retail / MLK,Deposited, , ,0
+486063,486060,710.89,1/16/2018,70137,Pending Fulfillment,Sales Order,Mark Carges,Retail / MLK,Deposited, , ,0
+486064,485850,260.40,1/16/2018,70101,Pending Fulfillment,Sales Order,Michael Yanakakis,Retail / MLK,Deposited, , ,0
+486066,486065,245.81,1/16/2018,70139,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+486068,486067,575.78,1/16/2018,70140,Pending Fulfillment,Sales Order,Thomas Hahn,Retail / MLK,Deposited, , ,0
+486070,486069,45.89,1/16/2018,70141,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+486072,486071,27.31,1/16/2018,70142,Pending Fulfillment,Sales Order,Robert Maurer,Retail / MLK,Deposited, , ,0
+486074,486073,34.96,1/16/2018,70143,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+486076,486075,48.07,1/16/2018,70144,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+485108,485106,972.00,1/15/2018,70041,Partially Fulfilled,Sales Order,Larry Ito,Retail / MLK,Deposited, , ,0
+485225,484952,10420.50,1/13/2018,70014,Partially Fulfilled,Sales Order,Somm Select,,Open, , ,0
+485334,483296,119.64,1/8/2018,69758,Pending Fulfillment,Sales Order,Rosso Wine Shop,,Open, , ,0
+485335,485332,378.00,1/15/2018,70048,Pending Fulfillment,Sales Order,Gisele Goldstein,Retail / MLK,Deposited, , ,0
+485338,485337,133.12,1/15/2018,70051,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+485339,485331,1009.80,1/15/2018,70047,Partially Fulfilled,Sales Order,San Diego Wine Co.,,Open, , ,0
+485340,485327,787.20,1/15/2018,70044,Pending Fulfillment,Sales Order,Little Bird Bistro (Le Pigeon 2nd rest),,Open, , ,0
+485341,485328,1124.00,1/15/2018,70045,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+485342,485329,600.00,1/15/2018,70046,Pending Fulfillment,Sales Order,Market of Choice (pdx),,Open, , ,0
+485353,485346,285.50,1/15/2018,70052,Pending Fulfillment,Sales Order,"Liner & Elsen, Wine Merchants",,Open, , ,0
+485354,485347,1475.52,1/15/2018,70053,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+485355,485348,285.00,1/15/2018,70054,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+485356,485349,909.00,1/15/2018,70055,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+485357,485350,501.00,1/15/2018,70056,Pending Fulfillment,Sales Order,HillCrest,,Open, , ,0
+485365,485364,52.44,1/15/2018,70062,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+485370,485369,49.16,1/15/2018,70063,Pending Fulfillment,Sales Order,William Moses,Retail / MLK,Deposited, , ,0
+485374,485373,52.44,1/15/2018,70066,Pending Fulfillment,Sales Order,Augusto Cardoso,Retail / MLK,Deposited, , ,0
+485380,485379,116.91,1/15/2018,70068,Pending Fulfillment,Sales Order,Michele Martindale,Retail / MLK,Deposited, , ,0
+485389,485388,88.59,1/15/2018,70073,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+485391,485390,51.96,1/15/2018,70074,Pending Fulfillment,Sales Order,Edward Fenstermacher,Retail / MLK,Deposited, , ,0
+485395,485394,972.00,1/15/2018,70075,Pending Fulfillment,Sales Order,Larry Ito,Retail / MLK,Deposited, , ,0
+485398,485397,43.30,1/15/2018,70077,Pending Fulfillment,Sales Order,Keziah Defusco,Retail / MLK,Deposited, , ,0
+485400,485399,55.82,1/15/2018,70078,Pending Fulfillment,Sales Order,Stanley Goldberg,Retail / MLK,Deposited, , ,0
+485401,485372,1929.00,1/15/2018,70065,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+485402,485387,252.60,1/15/2018,70072,Pending Fulfillment,Sales Order,Little Bird Bistro (Le Pigeon 2nd rest),,Open, , ,0
+485403,485396,1788.00,1/15/2018,70076,Partially Fulfilled,Sales Order,A Mano,,Open, , ,0
+485410,485409,123.41,1/15/2018,70080,Pending Fulfillment,Sales Order,Alfred McCall,Retail / MLK,Deposited, , ,0
+485412,485411,37.15,1/15/2018,70081,Pending Fulfillment,Sales Order,John McGlothlin,Retail / MLK,Deposited, , ,0
+485414,485413,232.74,1/15/2018,70082,Pending Fulfillment,Sales Order,Carol Rounsaville,Retail / MLK,Deposited, , ,0
+485416,485415,156.00,1/15/2018,70083,Pending Fulfillment,Sales Order,Market of Choice (pdx),,Open, , ,0
+485418,485417,159.51,1/15/2018,70084,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+485420,485419,38.97,1/15/2018,70085,Pending Fulfillment,Sales Order,David Goines,Retail / MLK,Deposited, , ,0
+485422,485421,486.00,1/15/2018,70086,Pending Fulfillment,Sales Order,Bill Reed,Retail / MLK,Deposited, , ,0
+484951,484950,1679.61,1/13/2018,70013,Partially Fulfilled,Sales Order,Joe DeGirolamo,Retail / MLK,Deposited, , ,0
+484954,484953,301.50,1/13/2018,70015,Partially Fulfilled,Sales Order,Sherwood Sumner,Retail / MLK,Deposited, , ,0
+484957,484956,193.70,1/13/2018,70017,Partially Fulfilled,Sales Order,James Watt,Retail / MLK,Deposited, , ,0
+484959,484955,2138.40,1/13/2018,70016,Partially Fulfilled,Sales Order,Daryl Rinehart,Retail / MLK,Deposited, , ,0
+484964,484963,27.31,1/13/2018,70020,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484966,484965,169.34,1/13/2018,70021,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484969,484968,91.77,1/13/2018,70023,Pending Fulfillment,Sales Order,Michael Marletta,Retail / MLK,Deposited, , ,0
+484971,484970,63.22,1/13/2018,70024,Pending Fulfillment,Sales Order,Steve Smith,Retail / MLK,Deposited, , ,0
+484972,484967,765.00,1/13/2018,70022,Pending Fulfillment,Sales Order,Thomas Barsh,Retail / MLK,Deposited, , ,0
+484974,484973,59.00,1/13/2018,70025,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484976,484975,36.15,1/13/2018,70026,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484978,484977,43.43,1/13/2018,70027,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484980,484979,35.99,1/13/2018,70028,Pending Fulfillment,Sales Order,Michael Nachman,Retail / MLK,Deposited, , ,0
+484982,484981,53.04,1/13/2018,70029,Pending Fulfillment,Sales Order,David Goines,Retail / MLK,Deposited, , ,0
+484984,484983,56.81,1/13/2018,70030,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484986,484985,66.64,1/13/2018,70031,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484988,484987,43.80,1/13/2018,70032,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484990,484989,56.91,1/13/2018,70033,Pending Fulfillment,Sales Order,Michael Scandling,Retail / MLK,Deposited, , ,0
+484992,484991,132.19,1/13/2018,70034,Pending Fulfillment,Sales Order,Joaquim Silvestre,Retail / MLK,Deposited, , ,0
+484745,484563,490.05,1/11/2018,69946,Partially Fulfilled,Sales Order,Sean Brennan,Retail / MLK,Deposited, , ,0
+484749,484748,1944.00,1/12/2018,69975,Partially Fulfilled,Sales Order,Kane Weiner,Retail / MLK,Deposited, , ,0
+484760,484757,1179.90,1/12/2018,69978,Pending Fulfillment,Sales Order,Marion Benedict,Retail / MLK,Deposited, , ,0
+484763,484762,1053.41,1/12/2018,69980,Pending Fulfillment,Sales Order,Stephen McGrath,Retail / MLK,Open, , ,0
+484764,484566,540.00,1/11/2018,69949,Pending Fulfillment,Sales Order,Kevin Bylsma,Retail / MLK,Deposited, , ,0
+484766,484569,292.28,1/11/2018,69951,Pending Fulfillment,Sales Order,Ken  Endelman,Retail / MLK,Deposited, , ,0
+484768,484767,782.10,1/12/2018,69981,Pending Fulfillment,Sales Order,Rob Davis,Retail / MLK,Deposited, , ,0
+484770,484564,253.10,1/11/2018,69947,Pending Fulfillment,Sales Order,Richard Vaccari,Retail / MLK,Deposited, , ,0
+484772,484226,270.00,1/11/2018,69928,Pending Fulfillment,Sales Order,Karen Sakamoto,Retail / MLK,Deposited, , ,0
+484791,484790,280.80,1/12/2018,69985,Pending Fulfillment,Sales Order,Stan Lotridge,Retail / MLK,Deposited, , ,0
+484792,484185,3346.12,1/11/2018,69912,Partially Fulfilled,Sales Order,Idaho Wine Merchant,,Open, , ,0
+484798,484797,122.36,1/12/2018,69986,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484800,484799,97.43,1/12/2018,69987,Pending Fulfillment,Sales Order,Jay Espovich,Retail / MLK,Deposited, , ,0
+484806,484805,756.80,1/12/2018,69992,Pending Fulfillment,Sales Order,WineBid.com,Vinlux : Winebid,Open, , ,0
+484808,484807,74.22,1/12/2018,69993,Pending Fulfillment,Sales Order,Jon Arnold,Retail / MLK,Paid In Full, , ,0
+484810,484809,580.77,1/12/2018,69994,Pending Fulfillment,Sales Order,WineBid.com,Vinlux : Winebid,Open, , ,0
+484812,484811,240.80,1/12/2018,69995,Pending Fulfillment,Sales Order,WineBid.com,Vinlux : Winebid,Open, , ,0
+484814,484813,103.20,1/12/2018,69996,Pending Fulfillment,Sales Order,WineBid.com,Vinlux : Winebid,Open, , ,0
+484816,484815,412.80,1/12/2018,69997,Pending Fulfillment,Sales Order,WineBid.com,Vinlux : Winebid,Paid In Full, , ,0
+484818,484817,26.52,1/12/2018,69998,Pending Fulfillment,Sales Order,Jessica Frizell,Retail / MLK,Deposited, , ,0
+484820,484819,129.60,1/12/2018,69999,Pending Fulfillment,Sales Order,Neil Schafer,Retail / MLK,Deposited, , ,0
+484822,484821,129.60,1/12/2018,70000,Pending Fulfillment,Sales Order,Neil Schafer,Retail / MLK,Deposited, , ,0
+484824,484734,3547.03,1/12/2018,69973,Partially Fulfilled,Sales Order,Victory Wine Group,,Open, , ,0
+484828,484827,117.99,1/12/2018,70003,Pending Fulfillment,Sales Order,Darrell Hayes,Retail / MLK,Deposited, , ,0
+484830,484829,39.33,1/12/2018,70004,Pending Fulfillment,Sales Order,Pardeep Singh,Retail / MLK,Deposited, , ,0
+484836,484835,117.99,1/12/2018,70006,Pending Fulfillment,Sales Order,Darrell Hayes,Retail / MLK,Deposited, , ,0
+484838,484831,1651.86,1/12/2018,70005,Pending Fulfillment,Sales Order,Richard Burnham,Retail / MLK,Paid In Full, , ,0
+484842,484841,36.05,1/12/2018,70008,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484844,484843,53.53,1/12/2018,70009,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484845,484624,190.96,1/12/2018,69969,Pending Fulfillment,Sales Order,Michael Yanakakis,Retail / MLK,Deposited, , ,0
+484848,484847,600.00,1/12/2018,70011,Pending Fulfillment,Sales Order,Brent Addington MD,Retail / MLK,Deposited, , ,0
+484160,484159,270.00,1/11/2018,69905,Pending Fulfillment,Sales Order,Bill Hargrove,Retail / MLK,Deposited, , ,0
+484174,484173,458.35,1/11/2018,69907,Pending Fulfillment,Sales Order,Porthos,,Open, , ,0
+484181,484180,116.91,1/11/2018,69909,Pending Fulfillment,Sales Order,Jeff Ammerman,Retail / MLK,Deposited, , ,0
+484183,484182,65.55,1/11/2018,69910,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484190,483705,6706.00,1/11/2018,69800,Partially Fulfilled,Sales Order,Classic Wines,,Open, , ,0
+484191,484176,405.00,1/11/2018,69908,Pending Fulfillment,Sales Order,Zachary Kilpatrick,Retail / MLK,Deposited, , ,0
+484193,484192,173.81,1/11/2018,69914,Pending Fulfillment,Sales Order,Marche Aux Fleurs,,Open, , ,0
+484198,484196,270.00,1/11/2018,69917,Pending Fulfillment,Sales Order,William Tidholm,Retail / MLK,Deposited, , ,0
+484199,484197,253.80,1/11/2018,69918,Pending Fulfillment,Sales Order,Jacqueline Poitier,Retail / MLK,Deposited, , ,0
+484210,484209,77.94,1/11/2018,69920,Pending Fulfillment,Sales Order,Chris Fisher,Retail / MLK,Deposited, , ,0
+484213,484212,19.67,1/11/2018,69922,Pending Fulfillment,Sales Order,Michael Marletta,Retail / MLK,Deposited, , ,0
+484214,483960,923.40,1/10/2018,69863,Pending Fulfillment,Sales Order,James Bolen M.D.,Retail / MLK,Deposited, , ,0
+484216,484215,206.15,1/11/2018,69923,Pending Fulfillment,Sales Order,Michael Yanakakis,Retail / MLK,Paid In Full, , ,0
+484222,484221,9.83,1/11/2018,69926,Pending Fulfillment,Sales Order,Larry Hyman,Retail / MLK,Deposited, , ,0
+484223,484220,10873.80,1/11/2018,69925,Pending Fulfillment,Sales Order,Gregg Sage,Retail / MLK,Deposited, , ,0
+484224,484211,923.40,1/11/2018,69921,Pending Fulfillment,Sales Order,James Bolen M.D.,Retail / MLK,Deposited, , ,0
+484228,484227,132.00,1/11/2018,69929,Pending Fulfillment,Sales Order,James Bolen M.D.,Retail / MLK,Deposited, , ,0
+484230,484229,259.80,1/11/2018,69930,Pending Fulfillment,Sales Order,Michael Gillespie,Retail / MLK,Deposited, , ,0
+484332,484331,9.83,1/11/2018,69931,Pending Fulfillment,Sales Order,Chandra Varma,Retail / MLK,Deposited, , ,0
+484334,484333,135.47,1/11/2018,69932,Pending Fulfillment,Sales Order,Chandra Varma,Retail / MLK,Deposited, , ,0
+484538,484537,117.32,1/11/2018,69934,Pending Fulfillment,Sales Order,Rob Davis,Retail / MLK,Deposited, , ,0
+484540,484539,117.99,1/11/2018,69935,Pending Fulfillment,Sales Order,Larry Hyman,Retail / MLK,Deposited, , ,0
+484542,484541,130.01,1/11/2018,69936,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484544,484335,1555.20,1/11/2018,69933,Pending Fulfillment,Sales Order,Bottlecraft,,Open, , ,0
+484551,484550,1250.00,1/11/2018,69939,Pending Fulfillment,Sales Order,Michael Faber,Retail / MLK,Deposited, , ,0
+484554,484553,19.49,1/11/2018,69941,Pending Fulfillment,Sales Order,Bhuma Subramaniam,Retail / MLK,Deposited, , ,0
+484557,484556,118.00,1/11/2018,69943,Partially Fulfilled,Sales Order,Norah,,Open, , ,0
+484558,484555,682.20,1/11/2018,69942,Partially Fulfilled,Sales Order,Farmshop,,Open, , ,0
+484562,484561,1310.40,1/11/2018,69945,Pending Fulfillment,Sales Order,Nancy Zevenbergen,Retail / MLK,Deposited, , ,0
+484568,484567,364.50,1/11/2018,69950,Pending Fulfillment,Sales Order,Stake Chophouse & Bar,,Open, , ,0
+484573,484571,252.00,1/11/2018,69953,Pending Fulfillment,Sales Order,Mourad,,Open, , ,0
+484574,484560,3973.50,1/11/2018,69944,Pending Fulfillment,Sales Order,Bounty Hunter,,Open, , ,0
+484578,484577,68.83,1/11/2018,69956,Pending Fulfillment,Sales Order,Caroline Todd,Retail / MLK,Deposited, , ,0
+484580,484579,56.00,1/11/2018,69957,Pending Fulfillment,Sales Order,Deborah Jezior,Retail / MLK,Deposited, , ,0
+484582,484581,374.32,1/11/2018,69958,Pending Fulfillment,Sales Order,Deborah Jezior,Retail / MLK,Deposited, , ,0
+484586,484575,1616.85,1/11/2018,69954,Partially Fulfilled,Sales Order,Coi,,Open, , ,0
+484587,484576,456.00,1/11/2018,69955,Pending Fulfillment,Sales Order,Kin Khao,,Open, , ,0
+484589,484583,332.88,1/11/2018,69959,Pending Fulfillment,Sales Order,Kelly McAuliffe,Retail / MLK,Open, , ,0
+484591,484590,256.96,1/11/2018,69960,Pending Fulfillment,Sales Order,Peter Vallis,Retail / MLK,Deposited, , ,0
+484593,484592,22.73,1/11/2018,69961,Pending Fulfillment,Sales Order,Jessica Frizell,Retail / MLK,Deposited, , ,0
+484595,484594,1967.55,1/11/2018,69962,Pending Fulfillment,Sales Order,Sarah Valor,Retail / MLK,Deposited, , ,0
+484598,484597,56.39,1/11/2018,69963,Pending Fulfillment,Sales Order,Karl Zimmer,Retail / MLK,Deposited, , ,0
+484605,484604,135.47,1/11/2018,69965,Pending Fulfillment,Sales Order,John McCallister,Retail / MLK,Deposited, , ,0
+484619,484618,98.33,1/11/2018,69966,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484621,484620,29.60,1/11/2018,69967,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484623,484622,34.64,1/11/2018,69968,Pending Fulfillment,Sales Order,Isabelle Minn,Retail / MLK,Deposited, , ,0
+484626,484625,53.53,1/11/2018,69970,Pending Fulfillment,Sales Order,David Goines,Retail / MLK,Deposited, , ,0
+484628,484627,613.78,1/11/2018,69971,Pending Fulfillment,Sales Order,Dwight Wininger,Retail / MLK,Deposited, , ,0
+483947,483946,615.25,1/10/2018,69859,Pending Fulfillment,Sales Order,Michael Lancaster,Retail / MLK,Deposited, , ,0
+483952,483951,264.26,1/10/2018,69861,Pending Fulfillment,Sales Order,Brent Vaughan,Retail / MLK,Deposited, , ,0
+483953,483948,3004.00,1/10/2018,69860,Partially Fulfilled,Sales Order,Sudachi,,Open, , ,0
+483963,483942,4746.00,1/9/2018,69855,Partially Fulfilled,Sales Order,Bounty Hunter,,Open, , ,0
+484071,484070,99.32,1/10/2018,69868,Pending Fulfillment,Sales Order,Marche Aux Fleurs,,Open, , ,0
+484073,484072,89.59,1/10/2018,69869,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484075,483945,420.00,1/10/2018,69858,Partially Fulfilled,Sales Order,Wine Country Connection,,Open, , ,0
+484079,484077,280.80,1/10/2018,69870,Pending Fulfillment,Sales Order,Nick Goetze,Retail / MLK,Deposited, , ,0
+484080,480925,872.93,1/2/2018,69606,Pending Fulfillment,Sales Order,Jonathan Dougall,Retail / MLK,Deposited, , ,0
+484085,484084,111.22,1/10/2018,69874,Pending Fulfillment,Sales Order,Myles Trapp,Retail / MLK,Deposited, , ,0
+484093,484092,220.69,1/10/2018,69875,Pending Fulfillment,Sales Order,Jorge Dequesada,Retail / MLK,Deposited, , ,0
+484099,483940,309.96,1/9/2018,69853,Pending Fulfillment,Sales Order,Roe Seafood,,Open, , ,0
+484100,484069,134.40,1/10/2018,69867,Pending Fulfillment,Sales Order,Market of Choice - Eugene (Willamette),,Open, , ,0
+484102,483196,3507.68,1/6/2018,69720,Pending Fulfillment,Sales Order,Bounty Hunter,,Open, , ,0
+484107,484106,428.33,1/10/2018,69879,Pending Fulfillment,Sales Order,Porthos,,Open, , ,23.33
+484115,484112,280.80,1/10/2018,69881,Pending Fulfillment,Sales Order,Seth Eisner,Retail / MLK,Deposited, , ,0
+484117,484116,354.95,1/10/2018,69882,Pending Fulfillment,Sales Order,Bob Shaffer,Retail / MLK,Deposited, , ,0
+484123,484122,656.21,1/10/2018,69887,Pending Fulfillment,Sales Order,Carol Sampson,Retail / MLK,Deposited, , ,0
+484132,484131,78.66,1/10/2018,69892,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484133,484118,328.00,1/10/2018,69883,Pending Fulfillment,Sales Order,Bouchon,,Open, , ,0
+484136,484135,81.19,1/10/2018,69893,Pending Fulfillment,Sales Order,Alan Forbes,Retail / MLK,Deposited, , ,0
+484138,484137,80.85,1/10/2018,69894,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484140,484139,64.95,1/10/2018,69895,Pending Fulfillment,Sales Order,Alan Forbes,Retail / MLK,Deposited, , ,0
+484143,484141,99.37,1/10/2018,69896,Pending Fulfillment,Sales Order,Jerry Cooper,Retail / MLK,Deposited, , ,0
+484145,484144,21.51,1/10/2018,69897,Pending Fulfillment,Sales Order,Adam Phillips - cust,Retail / MLK,Deposited, , ,0
+484149,484148,80.81,1/10/2018,69899,Pending Fulfillment,Sales Order,Kristina King,Retail / MLK,Deposited, , ,0
+484152,484151,13.11,1/10/2018,69901,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484153,484150,61.18,1/10/2018,69900,Pending Fulfillment,Sales Order,Evan  Tenaglia,Retail / MLK,Deposited, , ,0
+484155,484154,12.02,1/10/2018,69902,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+484157,484156,80.31,1/10/2018,69903,Pending Fulfillment,Sales Order,Jennifer Mann,Retail / MLK,Deposited, , ,0
+483601,483385,165.56,1/8/2018,69790,Pending Fulfillment,Sales Order,Kevin Dill,Retail / MLK,Deposited, , ,0
+483603,483602,388.80,1/9/2018,69798,Pending Fulfillment,Sales Order,Ken Klucznik,Retail / MLK,Deposited, , ,0
+483706,483400,2835.00,1/9/2018,69797,Pending Fulfillment,Sales Order,Victory Wine Group,,Open, , ,0
+483711,483708,291.60,1/9/2018,69801,Pending Fulfillment,Sales Order,David Durfee,Retail / MLK,Deposited, , ,0
+483719,483718,659.23,1/9/2018,69806,Pending Fulfillment,Sales Order,David Bower,Retail / MLK,Deposited, , ,0
+483732,483716,270.00,1/9/2018,69804,Pending Fulfillment,Sales Order,Calluna Vineyards,,Open, , ,0
+483734,483733,363.72,1/9/2018,69811,Pending Fulfillment,Sales Order,Pat Kelly,Retail / MLK,Deposited, , ,0
+483737,483736,334.80,1/9/2018,69813,Pending Fulfillment,Sales Order,Christopher Koos,Retail / MLK,Deposited, , ,0
+483739,483738,292.28,1/9/2018,69814,Pending Fulfillment,Sales Order,Dan Weiss,Retail / MLK,Deposited, , ,0
+483742,483735,712.80,1/9/2018,69812,Pending Fulfillment,Sales Order,Waterbar,,Open, , ,0
+483748,483747,197.10,1/9/2018,69815,Pending Fulfillment,Sales Order,Paul Henley,Retail / MLK,Deposited, , ,0
+483754,483753,631.80,1/9/2018,69819,Partially Fulfilled,Sales Order,Cecconi's WH,,Open, , ,0
+483758,483757,415.80,1/9/2018,69821,Pending Fulfillment,Sales Order,Louis Castonguay,Retail / MLK,Deposited, , ,0
+483761,483760,292.95,1/9/2018,69823,Pending Fulfillment,Sales Order,Connie Hendrix,Retail / MLK,Deposited, , ,0
+483763,483759,334.80,1/9/2018,69822,Pending Fulfillment,Sales Order,Gregg Landau,Retail / MLK,Deposited, , ,0
+483771,483770,334.80,1/9/2018,69830,Pending Fulfillment,Sales Order,Christopher Roser,Retail / MLK,Deposited, , ,0
+483775,483773,264.60,1/9/2018,69832,Pending Fulfillment,Sales Order,Joe Huston,Retail / MLK,Deposited, , ,0
+483777,483776,56.00,1/9/2018,69833,Pending Fulfillment,Sales Order,Joe Felson,Retail / MLK,Deposited, , ,0
+483783,483782,16.39,1/9/2018,69838,Pending Fulfillment,Sales Order,Caroline Todd,Retail / MLK,Deposited, , ,0
+483784,483779,317.12,1/9/2018,69835,Pending Fulfillment,Sales Order,Don Briggs,Retail / MLK,Deposited, , ,0
+483785,483781,604.80,1/9/2018,69837,Pending Fulfillment,Sales Order,Joe Felson,Retail / MLK,Deposited, , ,0
+483787,483786,348.07,1/9/2018,69839,Pending Fulfillment,Sales Order,Christopher Kirkham,Retail / MLK,Deposited, , ,0
+483892,483891,38.97,1/9/2018,69840,Pending Fulfillment,Sales Order,Karen Olson,Retail / MLK,Deposited, , ,0
+483893,483764,438.35,1/9/2018,69825,Pending Fulfillment,Sales Order,Richard Ingersoll,Retail / MLK,Deposited, , ,0
+483894,480909,371.07,1/2/2018,69597,Pending Fulfillment,Sales Order,Jon Levine (customer),Retail / MLK,Deposited, , ,0
+483897,483896,24.36,1/9/2018,69842,Pending Fulfillment,Sales Order,Dan Weiss,Retail / MLK,Deposited, , ,0
+483907,483762,123.30,1/9/2018,69824,Pending Fulfillment,Sales Order,David Kvamme,Retail / MLK,Deposited, , ,0
+483910,483767,529.20,1/9/2018,69827,Pending Fulfillment,Sales Order,Uncorked,,Open, , ,0
+483911,483768,529.20,1/9/2018,69828,Pending Fulfillment,Sales Order,Uncorked,,Open, , ,0
+483912,483769,504.00,1/9/2018,69829,Pending Fulfillment,Sales Order,Uncorked,,Open, , ,0
+483913,483772,342.00,1/9/2018,69831,Pending Fulfillment,Sales Order,Barzotto,,Open, , ,0
+483915,480911,1713.60,1/2/2018,69599,Partially Fulfilled,Sales Order,Snake River Grill,,Open, , ,0
+483920,483919,39.43,1/9/2018,69844,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483921,483918,226.80,1/9/2018,69843,Pending Fulfillment,Sales Order,Peter Arffman,Retail / MLK,Deposited, , ,0
+483922,483709,807.60,1/9/2018,69802,Partially Fulfilled,Sales Order,District San Jose,,Open, , ,0
+483923,483251,6528.00,1/8/2018,69741,Partially Fulfilled,Sales Order,Westside Wine,,Open, , ,0
+483926,483925,440.44,1/9/2018,69846,Pending Fulfillment,Sales Order,Brent Vaughan,Retail / MLK,Deposited, , ,0
+483927,483001,389.70,1/5/2018,69683,Pending Fulfillment,Sales Order,Chris Fisher,Retail / MLK,Deposited, , ,0
+483929,483928,38.24,1/9/2018,69847,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483931,483930,13.11,1/9/2018,69848,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483933,483932,540.00,1/9/2018,69849,Pending Fulfillment,Sales Order,Sasha Galbraith,Retail / MLK,Deposited, , ,0
+483936,483935,38.24,1/9/2018,69851,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483939,483938,31.68,1/9/2018,69852,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483250,483229,438.00,1/7/2018,69739,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+483253,480930,816.00,1/2/2018,69609,Pending Fulfillment,Sales Order,Bay Grape,,Open, , ,0
+483256,483195,669.00,1/5/2018,69719,Partially Fulfilled,Sales Order,The Morris,,Open, , ,0
+483263,483262,445.68,1/8/2018,69743,Pending Fulfillment,Sales Order,Cardinal Distributing,,Open, , ,0
+483271,483270,151.20,1/8/2018,69745,Pending Fulfillment,Sales Order,Jim Mullen,Retail / MLK,Deposited, , ,0
+483274,483273,151.46,1/8/2018,69747,Pending Fulfillment,Sales Order,Scott Colpitts,Retail / MLK,Deposited, , ,0
+483275,483189,277.28,1/5/2018,69715,Pending Fulfillment,Sales Order,David Kirshman,Retail / MLK,Deposited, , ,0
+483277,483276,657.72,1/8/2018,69748,Pending Fulfillment,Sales Order,Susan Breyer,Retail / MLK,Deposited, , ,0
+483278,483157,3906.18,1/5/2018,69698,Pending Fulfillment,Sales Order,Somm Select,,Open, , ,0
+483281,483280,3592.00,1/8/2018,69749,Partially Fulfilled,Sales Order,Raley's,,Open, , ,0
+483288,483287,123.45,1/8/2018,69754,Pending Fulfillment,Sales Order,Charlotte Jansen,Retail / MLK,Deposited, , ,0
+483292,483283,1090.44,1/8/2018,69750,Partially Fulfilled,Sales Order,San Diego Wine Co.,,Open, , ,0
+483293,483286,504.00,1/8/2018,69753,Pending Fulfillment,Sales Order,Rosso Pizzeria & Wine Bar,,Open, , ,0
+483295,483294,604.80,1/8/2018,69757,Pending Fulfillment,Sales Order,Riley Jones,Retail / MLK,Open, , ,0
+483297,483291,192.00,1/8/2018,69756,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+483298,483285,3675.00,1/8/2018,69752,Pending Fulfillment,Sales Order,Somm Select,,Open, , ,0
+483305,483304,10.93,1/8/2018,69761,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483309,482716,828.00,1/4/2018,69654,Pending Fulfillment,Sales Order,Phil Berenger MD,Retail / MLK,Deposited, , ,0
+483311,483310,1216.50,1/8/2018,69764,Partially Fulfilled,Sales Order,Bounty Hunter,,Open, , ,0
+483344,483343,142.03,1/8/2018,69771,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483347,483335,853.20,1/8/2018,69766,Partially Fulfilled,Sales Order,William Cross Wine Merchants,,Open, , ,0
+483357,483356,226.80,1/8/2018,69775,Pending Fulfillment,Sales Order,John Culpepper MD,Retail / MLK,Deposited, , ,0
+483359,483358,604.80,1/8/2018,69776,Pending Fulfillment,Sales Order,Gerry Bennett,Retail / MLK,Deposited, , ,0
+483365,483360,182.18,1/8/2018,69777,Pending Fulfillment,Sales Order,Market of Choice - Eugene (Willamette),,Open, , ,0
+483369,483368,205.68,1/8/2018,69780,Pending Fulfillment,Sales Order,Adelina Esquerra,Retail / MLK,Deposited, , ,0
+483372,483371,33.56,1/8/2018,69781,Pending Fulfillment,Sales Order,Bill Cady,Retail / MLK,Deposited, , ,0
+483380,483379,63.80,1/8/2018,69787,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483384,483382,106.85,1/8/2018,69789,Pending Fulfillment,Sales Order,Zach Hall,Retail / MLK,Deposited, , ,0
+483387,483386,16.39,1/8/2018,69791,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483198,483197,119.08,1/6/2018,69721,Pending Fulfillment,Sales Order,Wendy Leeorges,Retail / MLK,Deposited, , ,0
+483201,483200,27.41,1/6/2018,69723,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483203,483202,12.02,1/6/2018,69724,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483205,483204,14.20,1/6/2018,69725,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483207,483206,200.26,1/6/2018,69726,Pending Fulfillment,Sales Order,Joe DeGirolamo,Retail / MLK,Deposited, , ,0
+483209,483208,50.88,1/6/2018,69727,Pending Fulfillment,Sales Order,Joe DeGirolamo,Retail / MLK,Deposited, , ,0
+483212,483211,.00,1/6/2018,69729,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483214,483213,104.88,1/6/2018,69730,Pending Fulfillment,Sales Order,Gary Mingle,Retail / MLK,Deposited, , ,0
+483216,483215,161.69,1/6/2018,69731,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483218,483217,306.77,1/6/2018,69732,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483220,483219,49.26,1/6/2018,69733,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483222,483221,38.34,1/6/2018,69734,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483224,483223,101.70,1/6/2018,69735,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483226,483225,45.89,1/6/2018,69736,Pending Fulfillment,Sales Order,Lisa Ames,Retail / MLK,Deposited, , ,0
+483000,482961,453.60,1/5/2018,69667,Pending Fulfillment,Sales Order,Tom Black,Retail / MLK,Deposited, , ,0
+483005,483004,73.20,1/5/2018,69684,Pending Fulfillment,Sales Order,Evan  Tenaglia,Retail / MLK,Deposited, , ,0
+483007,483006,808.54,1/5/2018,69685,Pending Fulfillment,Sales Order,Braden Edwards,Retail / MLK,Deposited, , ,0
+483009,483008,741.00,1/5/2018,69686,Pending Fulfillment,Sales Order,Robin Yoshimura,Retail / MLK,Deposited, , ,0
+483010,482709,211.20,1/4/2018,69647,Pending Fulfillment,Sales Order,Erica Orr,Retail / MLK,Deposited, , ,0
+483011,480743,548.10,1/2/2018,69561,Pending Fulfillment,Sales Order,Mary Foust,Retail / MLK,Deposited, , ,0
+483115,483114,198.14,1/5/2018,69689,Pending Fulfillment,Sales Order,Westside Cafe,Retail / MLK,Deposited, , ,0
+483119,483117,787.19,1/5/2018,69690,Pending Fulfillment,Sales Order,Peter Dawson,Retail / MLK,Deposited, , ,0
+483121,483012,2489.75,1/5/2018,69687,Pending Fulfillment,Sales Order,Peter Dawson,Retail / MLK,Deposited, , ,0
+483126,483125,88.49,1/5/2018,69692,Pending Fulfillment,Sales Order,Abby Cohn,Retail / MLK,Deposited, , ,0
+483140,483132,226.80,1/5/2018,69693,Pending Fulfillment,Sales Order,Roger Feldenheimer,Retail / MLK,Deposited, , ,0
+483142,483141,3554.70,1/5/2018,69694,Pending Fulfillment,Sales Order,Stephen McGrath,Retail / MLK,Open, , ,0
+483144,483123,194.40,1/5/2018,69691,Pending Fulfillment,Sales Order,Sec Wines,,Open, , ,0
+483152,483151,270.63,1/5/2018,69695,Pending Fulfillment,Sales Order,Shelly Faura,Retail / MLK,Deposited, , ,0
+483159,482713,226.80,1/4/2018,69651,Pending Fulfillment,Sales Order,Gordon Mau,Retail / MLK,Deposited, , ,0
+483162,483158,261.00,1/5/2018,69699,Pending Fulfillment,Sales Order,Bounty Hunter,,Open, , ,0
+483164,483163,9826.13,1/5/2018,69701,Partially Fulfilled,Sales Order,Elliott Bay,,Open, , ,0
+483166,483165,135.47,1/5/2018,69702,Pending Fulfillment,Sales Order,Robert Alter,Retail / MLK,Deposited, , ,0
+483170,483169,27.31,1/5/2018,69704,Pending Fulfillment,Sales Order,Louise Fisher,Retail / MLK,Deposited, , ,0
+483172,483171,207.47,1/5/2018,69705,Pending Fulfillment,Sales Order,Stephen Vandeneeden,Retail / MLK,Deposited, , ,0
+483174,483173,121.92,1/5/2018,69706,Pending Fulfillment,Sales Order,Stephen Vandeneeden,Retail / MLK,Deposited, , ,0
+483176,483175,65.55,1/5/2018,69707,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483178,483177,242.59,1/5/2018,69708,Pending Fulfillment,Sales Order,Steve Gerbsman,Retail / MLK,Deposited, , ,0
+483180,483179,38.97,1/5/2018,69709,Pending Fulfillment,Sales Order,David Goines,Retail / MLK,Deposited, , ,0
+483183,483182,84.12,1/5/2018,69711,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+483185,483184,54.13,1/5/2018,69712,Pending Fulfillment,Sales Order,Jim Hauer,Retail / MLK,Deposited, , ,0
+483187,483186,79.12,1/5/2018,69713,Pending Fulfillment,Sales Order,Patrick Savage,Retail / MLK,Deposited, , ,0
+483191,483190,42.22,1/5/2018,69716,Pending Fulfillment,Sales Order,Martha Oestreich,Retail / MLK,Deposited, , ,0
+483193,483192,28.41,1/5/2018,69717,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+482563,482562,37.02,1/4/2018,69639,Pending Fulfillment,Sales Order,Clark Finkbiner,Retail / MLK,Deposited, , ,0
+482725,482723,85.43,1/4/2018,69658,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+482726,482718,5799.60,1/4/2018,69656,Partially Fulfilled,Sales Order,Meadowood Napa Valley,,Open, , ,0
+482728,428141,3106.80,8/10/2017,62997,Partially Fulfilled,Sales Order,Lazy Bear,,Open, , ,0
+482731,482606,328.00,1/4/2018,69644,Pending Fulfillment,Sales Order,Bouchon,,Open, , ,0
+482937,482934,1057.50,1/4/2018,69659,Partially Fulfilled,Sales Order,Southern Wine & Spirits - Las Vegas,,Open, , ,0
+482939,482938,496.80,1/4/2018,69661,Pending Fulfillment,Sales Order,Jamie Price,Retail / MLK,Deposited, , ,0
+482941,482940,140.40,1/4/2018,69662,Pending Fulfillment,Sales Order,Pablo Lancella,Retail / MLK,Deposited, , ,0
+482942,482715,324.00,1/4/2018,69653,Pending Fulfillment,Sales Order,Dave Jones,Retail / MLK,Deposited, , ,0
+482944,482943,245.51,1/4/2018,69663,Pending Fulfillment,Sales Order,Jeff Ammerman,Retail / MLK,Deposited, , ,0
+482946,482714,486.00,1/4/2018,69652,Pending Fulfillment,Sales Order,Andrea Haines,Retail / MLK,Deposited, , ,0
+482947,482712,113.40,1/4/2018,69650,Pending Fulfillment,Sales Order,Robin Yoshimura,Retail / MLK,Deposited, , ,0
+482948,482710,237.60,1/4/2018,69648,Pending Fulfillment,Sales Order,Christopher Roser,Retail / MLK,Deposited, , ,0
+482950,482711,118.80,1/4/2018,69649,Pending Fulfillment,Sales Order,Allan Klein,Retail / MLK,Deposited, , ,0
+482951,482949,550.80,1/4/2018,69664,Pending Fulfillment,Sales Order,John West,Retail / MLK,Paid In Full, , ,0
+482952,482707,57.00,1/4/2018,69645,Pending Fulfillment,Sales Order,Robert Loeb,Retail / MLK,Deposited, , ,0
+482955,482954,67.19,1/4/2018,69665,Pending Fulfillment,Sales Order,Stephen McGrath,Retail / MLK,Open, , ,0
+482956,482708,307.80,1/4/2018,69646,Pending Fulfillment,Sales Order,Rick Newnam,Retail / MLK,Deposited, , ,0
+482957,480917,1851.68,1/2/2018,69602,Pending Fulfillment,Sales Order,Rachael Goodhue,Retail / MLK,Deposited, , ,0
+482958,478504,.00,12/29/2017,69374,Partially Fulfilled,Sales Order,Lirette Selections,,Paid In Full, , ,0
+482960,482959,71.44,1/4/2018,69666,Pending Fulfillment,Sales Order,Matt Macias,Retail / MLK,Deposited, , ,0
+482963,482962,65.65,1/4/2018,69668,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+482965,482964,919.34,1/4/2018,69669,Pending Fulfillment,Sales Order,Christopher Kirkham,Retail / MLK,Deposited, , ,0
+482967,482966,63.87,1/4/2018,69670,Pending Fulfillment,Sales Order,Robin Barrett,Retail / MLK,Deposited, , ,0
+482969,482968,27.41,1/4/2018,69671,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+482974,482973,346.50,1/4/2018,69672,Pending Fulfillment,Sales Order,Stuart Rodie,Retail / MLK,Deposited, , ,0
+482976,482975,351.00,1/4/2018,69673,Pending Fulfillment,Sales Order,Paul Henley,Retail / MLK,Deposited, , ,0
+482978,482601,318.60,1/4/2018,69643,Pending Fulfillment,Sales Order,Michael Eckstut,Retail / MLK,Deposited, , ,0
+482982,482981,115.83,1/4/2018,69675,Pending Fulfillment,Sales Order,Michael White,Retail / MLK,Paid In Full, , ,0
+482985,482984,214.20,1/4/2018,69676,Pending Fulfillment,Sales Order,Stilly & Melanie McFadden,Retail / MLK,Deposited, , ,0
+482987,482986,27.31,1/4/2018,69677,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+482989,482988,27.31,1/4/2018,69678,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+482991,482990,290.70,1/4/2018,69679,Pending Fulfillment,Sales Order,Bob Wicks,Retail / MLK,Deposited, , ,0
+482993,482992,132.07,1/4/2018,69680,Pending Fulfillment,Sales Order,Francine Ostrem,Retail / MLK,Deposited, , ,0
+482995,482994,53.53,1/4/2018,69681,Pending Fulfillment,Sales Order,MLK,Retail / MLK,Deposited, , ,0
+480937,480932,1557.00,1/2/2018,69611,Pending Fulfillment,Sales Order,Le Pigeon,,Open, , ,0
+480938,480934,559.20,1/2/2018,69613,Pending Fulfillment,Sales Order,Little Bird Bistro (Le Pigeon 2nd rest),,Open, , ,0
+481651,480853,.00,1/2/2018,69583,Partially Fulfilled,Sales Order,Samples - Bill Elbring,Retail / MLK,Paid In Full, , ,0
+481992,481990,232.00,1/3/2018,69625,Pending Fulfillment,Sales Order,Ava Genes,,Open, , ,0
+482502,481993,3199.50,1/3/2018,69627,Pending Fulfillment,Sales Order,Symbolic Wines,,Open, , ,0
+482521,482511,2514.00,1/3/2018,69630,Partially Fulfilled,Sales Order,Gary Danko,,Open, , ,0
+480735,480721,1936.40,1/1/2018,69554,Partially Fulfilled,Sales Order,Sierra Mar Restaurant,,Open, , ,0
+480788,480045,2220.15,12/29/2017,69470,Partially Fulfilled,Sales Order,Bernardus Lodge,,Open, , ,0
+480809,477850,4671.00,12/27/2017,69286,Pending Fulfillment,Sales Order,Southern Wine & Spirits - Las Vegas,,Open, , ,0
+480836,480808,396.00,1/2/2018,69573,Pending Fulfillment,Sales Order,Anina,,Open, , ,0
+480886,480885,1344.80,1/2/2018,69586,Partially Fulfilled,Sales Order,Susan Breyer,Retail / MLK,Deposited, , ,0
+480888,480887,912.00,1/2/2018,69587,Partially Fulfilled,Sales Order,Hi Time Cellars,,Open, , ,0
+480902,480725,2315.76,1/2/2018,69557,Partially Fulfilled,Sales Order,Singlethread,,Open, , ,0
+480918,480801,2655.75,1/2/2018,69568,Partially Fulfilled,Sales Order,Victory Wine Group,,Open, , ,0
+480723,480112,5960.00,1/1/2018,69504,Partially Fulfilled,Sales Order,Felix Huang,Retail / MLK,Deposited, , ,0
+477262,477261,418.93,12/23/2017,69183,Partially Fulfilled,Sales Order,Kristina Fischer,Retail / MLK,Deposited, , ,0
+477300,477299,375.00,12/23/2017,69202,Pending Fulfillment,Sales Order,Neal Quinn,Retail / MLK,Deposited, , ,0
+477079,476937,42.00,12/21/2017,69065,Pending Fulfillment,Sales Order,Kevin Reynolds,Retail / MLK,Deposited, , ,0
+477116,477115,378.00,12/22/2017,69126,Pending Fulfillment,Sales Order,Stan Lotridge,Retail / MLK,Deposited, , ,0
+476908,476907,378.00,12/21/2017,69050,Pending Fulfillment,Sales Order,Steve Ford,Retail / MLK,Deposited, , ,0
+476995,476994,94.50,12/21/2017,69087,Pending Fulfillment,Sales Order,Bill Reed,Retail / MLK,Deposited, , ,0
+474901,474900,152.95,12/20/2017,68975,Pending Fulfillment,Sales Order,Dave Halligan,Retail / MLK,Deposited, , ,0
+476688,476687,670.50,12/20/2017,69005,Partially Fulfilled,Sales Order,Frank Rogers,Retail / MLK,Deposited, , ,0
+476698,476685,198.00,12/20/2017,69003,Partially Fulfilled,Sales Order,Eno Wine Bar,,Paid In Full, , ,0
+476733,476731,412.97,12/20/2017,69020,Pending Fulfillment,Sales Order,Richard Eastman,Retail / MLK,Deposited, , ,0
+474315,474314,136.40,12/19/2017,68909,Partially Fulfilled,Sales Order,Bill Andronico,Retail / MLK,Deposited, , ,0
+474348,472678,2906.51,12/19/2017,68655,Pending Fulfillment,Sales Order,Bill Morison,Retail / MLK,Deposited, , ,0
+474003,474002,210.60,12/18/2017,68863,Pending Fulfillment,Sales Order,Art Seessel,Retail / MLK,Deposited, , ,0
+474017,474016,421.20,12/18/2017,68868,Pending Fulfillment,Sales Order,Kevin Bylsma,Retail / MLK,Deposited, , ,0
+474168,474167,567.00,12/18/2017,68890,Partially Fulfilled,Sales Order,Robin Yoshimura,Retail / MLK,Deposited, , ,0
+473569,473408,415.55,12/15/2017,68748,Pending Fulfillment,Sales Order,Barry Goldberg,Retail / MLK,Deposited, , ,31.67
+473607,473606,9930.00,12/15/2017,68784,Partially Fulfilled,Sales Order,Mike Gigante,Retail / MLK,Deposited, , ,0
+472629,472628,193.05,12/14/2017,68638,Pending Fulfillment,Sales Order,John Kitt,Retail / MLK,Deposited, , ,0
+472816,472815,3583.40,12/14/2017,68665,Pending Fulfillment,Sales Order,Christopher Kirkham,Retail / MLK,Deposited, , ,0
+472821,472818,197.10,12/14/2017,68667,Pending Fulfillment,Sales Order,Kevin Dill,Retail / MLK,Deposited, , ,0
+473126,473124,10915.00,12/14/2017,68671,Pending Fulfillment,Sales Order,Matt Johnson,Retail / MLK,Deposited, , ,0
+473157,473156,405.00,12/14/2017,68689,Partially Fulfilled,Sales Order,John Culpepper MD,Retail / MLK,Deposited, , ,0
+473161,472602,648.00,12/13/2017,68623,Pending Fulfillment,Sales Order,Clay Williams,Retail / MLK,Deposited, , ,0
+472360,472358,648.00,12/13/2017,68579,Pending Fulfillment,Sales Order,Joe Schwab,Retail / MLK,Deposited, , ,0
+472363,472362,486.00,12/13/2017,68581,Partially Fulfilled,Sales Order,Mark Caldemeyer,Retail / MLK,Deposited, , ,0
+472529,472528,706.32,12/13/2017,68603,Pending Fulfillment,Sales Order,Joel Phillips,Retail / MLK,Paid In Full, , ,0
+472576,472575,324.00,12/13/2017,68613,Pending Fulfillment,Sales Order,Jim Mullen,Retail / MLK,Deposited, , ,0
+465095,464805,139.60,11/22/2017,67678,Partially Fulfilled,Sales Order,University Club - SF,,Paid In Full, , ,0
+464645,460798,7556.05,11/21/2017,67197,Partially Fulfilled,Sales Order,Bruce Rose,Retail / MLK,Deposited, , ,0
+461151,461148,1623.75,11/14/2017,67213,Partially Fulfilled,Sales Order,Raj Venkatesan,Retail / MLK,Deposited, , ,0
+459416,459407,5067.66,11/6/2017,66825,Pending Fulfillment,Sales Order,Quail Distribution Inc.,,Open, , ,264
+459037,459036,2469.46,11/3/2017,66722,Partially Fulfilled,Sales Order,Brandon Wang,Retail / MLK,Deposited, , ,0
+455171,455109,5550.80,10/25/2017,66301,Partially Fulfilled,Sales Order,Michael Harris,Retail / MLK,Deposited, , ,0
+452947,452946,238.69,10/21/2017,66143,Partially Fulfilled,Sales Order,John McCallister,Retail / MLK,Deposited, , ,0
+450771,450770,2597.60,10/13/2017,65811,Partially Fulfilled,Sales Order,Elan Jeremitsky,Retail / MLK,Deposited, , ,0
+450384,450383,835.85,10/12/2017,65752,Partially Fulfilled,Sales Order,Jaison Layney,Retail / MLK,Deposited, , ,0
+449485,449484,3348.90,10/7/2017,65577,Partially Fulfilled,Sales Order,Ben Wheeler,Retail / MLK,Deposited, , ,0
+448090,448034,408.75,10/3/2017,65397,Pending Fulfillment,Sales Order,Jason Maas,Retail / MLK,Deposited, , ,0
+448263,448262,1475.00,10/4/2017,65451,Pending Fulfillment,Sales Order,Neal Quinn,Retail / MLK,Deposited, , ,0
+447889,447888,1119.60,10/3/2017,65377,Partially Fulfilled,Sales Order,Eric Siskind,Retail / MLK,Deposited, , ,0
+444645,443159,3890.75,9/25/2017,65066,Partially Fulfilled,Sales Order,Peter Dawson,Retail / MLK,Deposited, , ,0
+443787,443786,633.60,9/26/2017,65103,Partially Fulfilled,Sales Order,Art Seessel,Retail / MLK,Deposited, , ,0
+444410,444409,536.28,9/26/2017,65115,Pending Fulfillment,Sales Order,Kevin Dill,Retail / MLK,Deposited, , ,0
+442817,442816,858.60,9/25/2017,65050,Partially Fulfilled,Sales Order,Kenneth Rosen,Retail / MLK,Deposited, , ,0
+442820,442819,2414.00,9/25/2017,65051,Pending Fulfillment,Sales Order,Chris Newcomb,Retail / MLK,Deposited, , ,0
+442648,441902,4445.70,9/22/2017,64720,Partially Fulfilled,Sales Order,Neal Quinn,Retail / MLK,Deposited, , ,0
+442242,436289,6405.00,8/31/2017,63963,Partially Fulfilled,Sales Order,Felix Huang,Retail / MLK,Deposited, , ,0
+440833,440832,244.19,9/15/2017,64543,Partially Fulfilled,Sales Order,Adelina Esquerra,Retail / MLK,Deposited, , ,0
+439163,436074,2203.20,8/31/2017,63924,Partially Fulfilled,Sales Order,Ray Tam,Retail / MLK,Deposited, , ,0
+438882,438881,729.00,9/8/2017,64241,Pending Fulfillment,Sales Order,Thomas Vetsch,Retail / MLK,Deposited, , ,0
+439017,438185,3407.40,9/6/2017,64181,Partially Fulfilled,Sales Order,Michael Faber,Retail / MLK,Deposited, , ,0
+438220,438219,842.68,9/7/2017,64197,Partially Fulfilled,Sales Order,Eva Schreier,Retail / MLK,Deposited, , ,0
+437803,432353,4454.00,8/24/2017,63541,Pending Fulfillment,Sales Order,Michael Harris,Retail / MLK,Deposited, , ,0
+434532,434531,238.71,8/28/2017,63745,Pending Fulfillment,Sales Order,David Kirshman,Retail / MLK,Deposited, , ,0
+434233,434232,218.00,8/26/2017,63637,Pending Fulfillment,Sales Order,Michael Jubien,Retail / MLK,Deposited, , ,0
+432578,432577,238.71,8/25/2017,63586,Pending Fulfillment,Sales Order,David Kirshman,Retail / MLK,Deposited, , ,0
+432329,418129,9007.00,7/21/2017,61970,Partially Fulfilled,Sales Order,Matt Johnson,Retail / MLK,Deposited, , ,0
+432371,432370,697.68,8/24/2017,63547,Pending Fulfillment,Sales Order,Michelle Astorian,Retail / MLK,Deposited, , ,0
+432383,432362,1070.00,8/24/2017,63546,Pending Fulfillment,Sales Order,Jamey Clement,Retail / MLK,Deposited, , ,0
+432385,432384,3277.00,8/24/2017,63548,Pending Fulfillment,Sales Order,Kane Weiner,Retail / MLK,Deposited, , ,0
+432388,432387,546.00,8/24/2017,63549,Pending Fulfillment,Sales Order,Bill Reed,Retail / MLK,Deposited, , ,0
+432399,432115,12640.36,8/24/2017,63531,Partially Fulfilled,Sales Order,David Thompson,Retail / MLK,Deposited, , ,0
+432401,432400,2024.00,8/24/2017,63555,Pending Fulfillment,Sales Order,Jack Powell,Retail / MLK,Deposited, , ,0
+417283,417282,1188.00,7/18/2017,61789,Partially Fulfilled,Sales Order,Stephen Weber,Retail / MLK,Deposited, , ,0

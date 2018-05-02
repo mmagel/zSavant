@@ -1,0 +1,23 @@
+// set est weight value on item client
+//
+//case {custitem6} 
+//when 'Still' then {custitem11} * .004
+//when 'Dessert' then {custitem11} * .004
+//when 'Oil' then {custitem11} * .004
+//when 'Sparkling' then {custitem11} * .0053 end
+//
+// BOTTLE SIZE - ML		custitem11
+// CLASSIFICATION		custitem6
+// EST. WEIGHT			custitem72
+
+//client script to run on new item initialization
+function item_init(type){
+    var classification = nlapiGetFieldValue('custitem6');
+    var mlbottle = nlapiGetFieldValue('custitem11');
+    var estweight = nlapiGetFieldValue('custitem72');
+
+    // when created from copy the field should init blank
+    if (type=='copy'){
+        nlapiSetFieldValue('custitem72', '' );
+    }   
+}

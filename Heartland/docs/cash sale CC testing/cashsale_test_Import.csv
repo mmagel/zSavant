@@ -1,0 +1,2 @@
+ExternalID,Customer(I),Status,Date,Item (I),Price Level,Rate(amount),Card Type,Card Holder Name,Credit Card #,Expires (MM/YYYY),Authorize Card,Address,Zip,CVV
+HL_TEST_CS_01172018.test,1683,Not Deposited,1/18/18,1010,Custom,91.01,Visa,,4012002000060010,12/2025,T,6860 Dallas Pkwy,750241234,123

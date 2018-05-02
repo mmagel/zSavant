@@ -1,0 +1,47 @@
+Error,Inventory Transfer : Category,Inventory Transfer : Date,Inventory Transfer : Department,Inventory Transfer : ExternalId,Inventory Transfer : From Location,Inventory Transfer : Internal ID,Inventory Transfer : Memo,Inventory Transfer : Posting Period,Inventory Transfer : Ref. No.,Inventory Transfer : To Location,Inventory Transfer Items : Item,Inventory Transfer Items : Line,Inventory Transfer Items : Qty. To Transfer,Inventory Transfer Items : Units,External ID
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,AKFC-1193 AKFC-1193,2,0,,EXT_3798
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,CCKIND-PVY CCKIND-PVY,7,0,,EXT_3787
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,CCKIND-VYP CCKIND-VYP,8,0,,EXT_3789
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,CCKIND-YPV CCKIND-YPV,9,0,,EXT_3788
+Invalid item reference key FLWA2-1285 FLWA2-1285.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,FLWA2-1285 FLWA2-1285,15,4514,,EXT_4274
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy Buckets w/ Rope and Assy Buckets w/ Rope and,18,0,,EXT_1569
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy SLDA - Pride Assy SLDA - Pride,20,0,,EXT_1551
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy SWB1-1174 (Pride) Assy SWB1-1174 (Pride),21,0,,EXT_1567
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy SWB2-1175 Pride Assy SWB2-1175 Pride,22,0,,EXT_1568
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy SWDR-1169 (Pride) Assy SWDR-1169 (Pride),25,0,,EXT_1572
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy SWRB-1171 (Pride) Assy SWRB-1171 (Pride),26,0,,EXT_1573
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy SWSC-1170 (Pride) Assy SWSC-1170 (Pride),28,0,,EXT_1575
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,Assy SWSE-1173 (Pride) Assy SWSE-1173 (Pride),29,0,,EXT_1576
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,CAK-YW CAK-YW,37,0,,EXT_3785
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,MES02R MES02R,88,0,,EXT_2159
+Invalid item reference key MES03R MES03R.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,MES03R MES03R,89,20368,,EXT_4080
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKG15x11x11 PKG15x11x11,104,0,,EXT_2253
+Invalid item reference key PKG20x16x10 PKG20x16x10.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKG20x16x10 PKG20x16x10,109,592,,EXT_4079
+Invalid item reference key PKGCLSDBIG PKGCLSDBIG.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGCLSDBIG PKGCLSDBIG,117,0,,EXT_4254
+Invalid item reference key PKGCLSDBIGMCT PKGCLSDBIGMCT.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGCLSDBIGMCT PKGCLSDBIGMCT,118,0,,EXT_4255
+Invalid item reference key PKGCLSDMID PKGCLSDMID.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGCLSDMID PKGCLSDMID,119,0,,EXT_4265
+Invalid item reference key PKGCLSDMIDMCT PKGCLSDMIDMCT.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGCLSDMIDMCT PKGCLSDMIDMCT,120,0,,EXT_4267
+Invalid item reference key PKGCLSDSHRT PKGCLSDSHRT.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGCLSDSHRT PKGCLSDSHRT,121,7592,,EXT_4264
+Invalid item reference key PKGCLSDSHRTMCT PKGCLSDSHRTMCT.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGCLSDSHRTMCT PKGCLSDSHRTMCT,122,0,,EXT_4266
+Invalid item reference key PKGCMDSLV PKGCMDSLV.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGCMDSLV PKGCMDSLV,123,4175,,EXT_4225
+Invalid item reference key PKGD4PKMCT PKGD4PKMCT.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGD4PKMCT PKGD4PKMCT,126,0,,EXT_4228
+Invalid item reference key PKGD4PKRTL PKGD4PKRTL.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGD4PKRTL PKGD4PKRTL,127,0,,EXT_4227
+Invalid item reference key PKGD4PKSLV PKGD4PKSLV.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGD4PKSLV PKGD4PKSLV,128,0,,EXT_4229
+Invalid item reference key PKGDSTMCT PKGDSTMCT.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGDSTMCT PKGDSTMCT,130,2000,,EXT_4221
+Invalid item reference key PKGDSTRTL PKGDSTRTL.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGDSTRTL PKGDSTRTL,131,8000,,EXT_4220
+Invalid item reference key PKGFLWSLVA PKGFLWSLVA.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGFLWSLVA PKGFLWSLVA,136,0,,EXT_4256
+Invalid item reference key PKGFMDSLV PKGFMDSLV.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGFMDSLV PKGFMDSLV,137,0,,EXT_4223
+Invalid item reference key PKGMMDSLV PKGMMDSLV.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGMMDSLV PKGMMDSLV,138,0,,EXT_4222
+Invalid item reference key PKGMTDSLV PKGMTDSLV.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGMTDSLV PKGMTDSLV,139,3850,,EXT_4226
+Invalid item reference key PKGRMDSLV PKGRMDSLV.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGRMDSLV PKGRMDSLV,140,0,,EXT_4224
+Invalid item reference key PKGSLDA-OVSP PKGSLDA-OVSP.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGSLDA-OVSP PKGSLDA-OVSP,141,0,,EXT_1036
+Invalid item reference key PKGSLDSLVA PKGSLDSLVA.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGSLDSLVA PKGSLDSLVA,144,0,,EXT_4263
+Invalid item reference key PKGSTPSLVA PKGSTPSLVA.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGSTPSLVA PKGSTPSLVA,152,0,,EXT_4259
+Invalid item reference key PKGSTSSLVA PKGSTSSLVA.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGSTSSLVA PKGSTSSLVA,153,0,,EXT_4260
+Invalid item reference key PKGTLSBSLVA PKGTLSBSLVA.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGTLSBSLVA PKGTLSBSLVA,155,3216,,EXT_4262
+Invalid item reference key PKGTLSPSLVA PKGTLSPSLVA.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,PKGTLSPSLVA PKGTLSPSLVA,157,4526,,EXT_4261
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,SERVICES:Assembly:Assembly-CHP1 - KS SERVICES:Assembly:Assembly-CHP1 - KS,172,0,,EXT_1851
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,SPN01R-PK SPN01R-PK,178,0,,EXT_1581
+Transaction was not complete.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,SUG01R-PK SUG01R-PK,183,0,,EXT_1583
+Invalid item reference key TEARTLINSB TEARTLINSB.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,TEARTLINSB TEARTLINSB,188,0,,EXT_4300
+Invalid item reference key TEARTLINSP TEARTLINSP.,,9/30/17,,,Pride Industries,,transfer of all pride to tigers hayward,,,153 Tigers Hayward,TEARTLINSP TEARTLINSP,189,0,,EXT_4301

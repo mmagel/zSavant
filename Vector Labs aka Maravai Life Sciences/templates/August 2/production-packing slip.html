@@ -1,0 +1,237 @@
+<?xml version="1.0"?><!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd">
+<pdf>
+<head>
+<#if .locale == "ru_RU">
+    <link name="verdana" type="font" subtype="opentype" src="${nsfont.verdana}" src-bold="${nsfont.verdana_bold}" bytes="2" />
+</#if>
+    <macrolist>
+        <macro id="nlheader">
+            <table class="header" style="width: 100%;"><tr><!--	<td rowspan="3"><#if companyInformation.logoUrl?length != 0><img src="${companyInformation.logoUrl}" style="float: left; margin: 7px; width:150px; height:60px; padding-bottom:30px;" /> </#if> <span class="nameandaddress">${companyInformation.companyName}<br/>${companyInformation.addressText}<br/>${companyInformation.phone}<br />${companyInformation.email}</span></td> -->
+	<td rowspan="3" style="padding: 0;"><#if companyInformation.logoUrl?length != 0><img src="${companyInformation.logoUrl}" style="float: left; margin: 1px; width:150px; height:60px; padding-bottom:0px;" /> </#if><br /><br /><br /><br /><br />${companyInformation.addressText}<br />+1 ${companyInformation.phone}<br />${companyInformation.email}</td>
+	<td align="right"><span class="title">${record@title}</span></td>
+	</tr>
+	<tr>
+	<td align="right"><span class="number">#${record.tranid}</span></td>
+	</tr>
+	<tr>
+	<td align="right">&nbsp;</td>
+	</tr></table>
+
+<table style="position:absolute; display:block; float:left;margin-top:60px; width:50%;"><tr>
+	<td>&nbsp;</td>
+	</tr></table>
+        </macro>
+        <macro id="nlfooter">
+            <table class="footer" style="width: 100%;"><tr>
+	<td><barcode codetype="code128" showtext="true" value="${record.tranid}"/></td>
+	<td align="right"><pagenumber/> of <totalpages/></td>
+	</tr></table>
+        </macro>
+    </macrolist>
+    <style type="text/css">table {
+			<#if .locale == "zh_CN">
+			  font-family: stsong, sans-serif;
+    <#elseif .locale == "zh_TW">
+      font-family: msung, sans-serif;
+    <#elseif .locale == "ja_JP">
+      font-family: heiseimin, sans-serif;
+    <#elseif .locale == "ko_KR">
+      font-family: hygothic, sans-serif;
+    <#elseif .locale == "ru_RU">
+      font-family: verdana;
+    <#else>
+      font-family: sans-serif;
+    </#if>
+			font-size: 9pt;
+			table-layout: fixed;
+		}
+		th {
+			font-weight: bold;
+			font-size: 8pt;
+			vertical-align: middle;
+            padding: 5px 6px 3px;
+            background-color: #e3e3e3;
+			color: #333333;
+		}
+		td {
+            padding: 4px 6px;
+        }
+		b {
+			font-weight: bold;
+			color: #333333;
+		}
+		table.header td {
+			padding: 0;
+			font-size: 10pt;
+		}
+		table.footer td {
+			padding: 0;
+			font-size: 8pt;
+		}
+		table.itemtable th {
+			padding-bottom: 10px;
+			padding-top: 10px;
+
+		}
+		table.body td {
+			padding-top: 2px;
+		}
+		td.addressheader {
+			font-size: 8pt;
+			padding-top: 6px;
+			padding-bottom: 2px;
+		}
+		td.address {
+			padding-top: 0;
+		}
+        td {
+            padding: 4px 6px;
+         
+        }
+      td.bordered {
+        padding: 4px 6px;
+         border-top: 0px;
+        border-right: 1px;
+         border-bottom: 1px;
+        border-left: 1px;
+      }
+      td.borderedbr {
+        padding: 4px 6px;
+         border-top: 0px;
+        border-right: 1px;
+         border-bottom: 1px;
+      }
+      td.borderall {
+        padding: 4px 6px;
+         border-top: 1px;
+        border-right: 1px;
+         border-bottom: 1px;
+        border-left: 1px;
+      }
+      td.borderrl {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-right: 1px;
+      }
+      td.borderl {
+        padding: 4px 6px;
+         border-left: 1px;
+        
+      }
+      td.borderlb {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-bottom: 1px;
+      }
+      td.borderb {
+        padding: 4px 6px;
+
+        border-bottom: 1px;
+      }
+      td.borderrlb {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-right: 1px;
+        border-bottom: 1px;
+      }
+      td.borderr {
+        padding: 4px 6px;
+   
+        border-right: 1px;
+      }
+      td.borderrb {
+        padding: 4px 6px;
+   
+        border-right: 1px;
+        border-bottom: 1px;
+      }      
+      
+      
+		span.title {
+			font-size: 28pt;
+		}
+		span.number {
+			font-size: 16pt;
+		}
+		span.itemname {
+			font-weight: bold;
+			line-height: 150%;
+		}
+		hr {
+			width: 100%;
+			color: #d3d3d3;
+			background-color: #d3d3d3;
+			height: 1px;
+		}
+</style>
+</head>
+<body header="nlheader" header-height="17%" footer="nlfooter" footer-height="20pt" padding="0.15in 0.5in 0.5in 0.5in" size="Letter">
+    <table style="width: 100%; margin-top: 10px;"><tr>
+	<td>&nbsp;</td>
+	<td><b>${record.shipaddress@label}</b></td>
+	</tr>
+	<tr>
+	<td class="address">&nbsp;</td>
+	<td class="address">${record.shipaddress}</td>
+	</tr>
+	<tr>
+	<td align="left">&nbsp;</td>
+	<td align="left"><b>Order Number:</b> ${salesorder.tranid}<br /><#if salesorder.entity.email?length != 0> <b>Customer Email:</b> ${salesorder.entity.email}<br /></#if> <#if salesorder.entity.phone?length != 0> <b>Customer Phone:</b> ${salesorder.entity.phone} </#if></td>
+	</tr></table>
+
+<table class="body" style="width: 100%; margin-top: 10px;"><tr>
+	<th>${record.shipmethod@label}</th>
+	<th>P.O. #</th>
+	<th>Customer Shipping Account</th>
+	</tr>
+	<tr>
+	<td>${record.shipmethod}</td>
+	<td>${salesorder.otherrefnum}</td>
+	<td>${salesorder.custbody_shippingacct}</td>
+	</tr></table>
+<#if record.item?has_content>
+
+<table class="itemtable" style="width: 100%; margin-top: 10px;">
+<thead>
+	<tr>
+	<th colspan="3">Quantity</th>
+	<th colspan="10">${record.item[0].itemname@label}</th>
+	<th colspan="10">Description</th>
+	<th colspan="4">Amount</th>
+	<th colspan="4">${record.item[0].serialnumbers@label}</th>
+	<th colspan="4">Expiration Date</th>
+	</tr>
+</thead>
+<#if record.showAddlItemsPackSlip == 'NONE'><!-- start items --><#list record.item as item><#list salesorder.item as tranline><#if tranline.line==item.orderline><tr>
+	<td class="borderrlb" colspan="3">${item.quantity}</td>
+	<td class="borderrb" colspan="10"><span class="itemname">${item.item}</span></td>
+	<td class="borderrb" colspan="10">${tranline.description}</td>
+	<td class="borderrb" colspan="4">${tranline.amount}</td>
+	<td align="right" class="borderrb" colspan="4">${item.serialnumbers}</td>
+	<td align="right" class="borderrb" colspan="4">${tranline.custcol_expdate}</td>
+	</tr>
+	</#if></#list></#list></#if></table>
+<#assign num1 = 'no'><#list salesorder.item as tranline><#assign z =tranline.quantitybackordered><#if tranline.quantitybackordered?has_content><#assign y =z?number><#if y != 0><#if num1 == 'no'><#assign num1 = 'yes'>
+
+<table class="itemtable" style="width: 100%; margin-top: 10px;">
+<thead>
+	<tr>
+	<th colspan="3">Quantity Backordered</th>
+	<th colspan="6">Item</th>
+	<th colspan="6">Description</th>
+	</tr>
+</thead><tr>
+	<td class="borderrlb" colspan="3">${tranline.quantitybackordered}</td>
+	<td class="borderrb" colspan="6"><span class="itemname">${tranline.item}</span></td>
+	<td class="borderrb" colspan="6">${tranline.description}</td>
+	</tr>
+	<#else>
+	<tr>
+	<td class="borderrlb" colspan="3">${tranline.quantitybackordered}</td>
+	<td class="borderrb" colspan="6"><span class="itemname">${tranline.item}</span></td>
+	<td class="borderrb" colspan="6">${tranline.description}</td>
+	</tr>
+	</#if><#if num1 == 'yes'></table>
+</#if></#if></#if></#list></#if>
+</body>
+</pdf>

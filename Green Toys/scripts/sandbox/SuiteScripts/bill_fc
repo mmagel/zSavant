@@ -1,0 +1,12 @@
+
+function bill_fc(type,name,linenum){
+	if (type=='item'&&name=='item'){
+		var item=nlapiGetCurrentLineItemValue(type,name);
+		if (item!=''&&item!=null){
+			var cp=nlapiLookupField('item',item,'custitem_casepack');
+			if (cp!=''&&cp!=null){
+				nlapiSetCurrentLineItemValue(type,name,cp);
+			}
+		}
+	}
+}

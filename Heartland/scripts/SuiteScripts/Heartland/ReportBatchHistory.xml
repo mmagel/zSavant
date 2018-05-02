@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:tns="http://Hps.Exchange.PosGateway">
+    <soap:Header>
+    </soap:Header>
+    <soap:Body>
+        <tns:PosRequest>
+            <tns:Ver1.0>
+                <tns:Header>
+                    <tns:SecretAPIKey>[secretApiKey]</tns:SecretAPIKey>
+                    <tns:VersionNbr>1234</tns:VersionNbr>
+                    <tns:DeveloperID>123456</tns:DeveloperID>
+                    <tns:SiteTrace>trace0001</tns:SiteTrace>
+                </tns:Header>
+                <tns:Transaction>
+                    <tns:ReportBatchHistory>
+                        <!--
+                        <tns:RptStartUtcDT>2018-04-21T19:07:41</tns:RptStartUtcDT>
+                        <tns:RptEndUtcDT>2018-09-05T19:07:41Z</tns:RptEndUtcDT>
+                        <tns:DeviceId>6237555</tns:DeviceId>
+                        <tns:TzConversion>UTC</tns:TzConversion>
+                        -->
+                    </tns:ReportBatchHistory>
+                </tns:Transaction>
+            </tns:Ver1.0>
+        </tns:PosRequest>
+    </soap:Body>
+</soap:Envelope>

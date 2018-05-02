@@ -1,0 +1,25 @@
+Edit,Internal ID,Name,Level
+Customize,4,A/P Clerk,Edit
+Customize,1,Accountant,Edit
+Customize,2,Accountant (Reviewer),Edit
+Edit,1007,Accounting Services,Full
+Customize,6,Bookkeeper,Edit
+Customize,50,Buyer,Edit
+Customize,8,CEO,Full
+Customize,7,CEO(Hands Off),Edit
+Customize,41,CFO,Full
+Edit,1004,Controller,View
+Edit,1009,Custom A/P Clerk,Full
+Edit,1010,Custom A/P Clerk 2,Edit
+Edit,1019,Customer Management,Full
+Customize,1018,Expensify Integration,Create
+Edit,1024,GT Accounting Manager Full Access,Full
+Edit,1012,GT Accts Payable,Full
+Edit,1025,GT AP Manager Full Access,Full
+Edit,1022,GT Custom Full Access,Full
+Edit,1023,GT Director of Operations Full Access,Full
+Edit,1014,GT Marketing Administrator,View
+Edit,1026,GT President Full Access,Full
+Customize,1020,Procurement Dashboard Publisher - Accounting,Full
+Customize,1021,Procurement Dashboard Publisher - Shipping,Edit
+Customize,19,Warehouse Manager,Edit

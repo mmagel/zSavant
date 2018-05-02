@@ -1,0 +1,2 @@
+Error,ExternalID,Customer(I),Status,Date,Item (I),Price Level,Rate(amount),Card Type,Card Holder Name,Credit Card #,Expires (MM/YYYY),Authorize Card,Address,Zip
+Please enter value(s) for: Location,HL_TEST_01192018.1,1683,Pending Fulfillment,1/19/18,1011,Custom,91.01,Visa,,4012002000060010,12/2025,T,6860 Dallas Pkwy,750241234

@@ -1,0 +1,360 @@
+<?xml version="1.0"?><!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd">
+<pdf>
+<head>
+<#if .locale == "ru_RU">
+    <link name="verdana" type="font" subtype="opentype" src="${nsfont.verdana}" src-bold="${nsfont.verdana_bold}" bytes="2" />
+</#if>
+    <macrolist>
+        <macro id="nlheader">
+            <table class="header" style="width: 100%;" top="-10"><tr>
+	<td rowspan="5"><#if companyInformation.logoUrl?length != 0><img src="${companyInformation.logoUrl}" style="float: left; margin: 7px; width:150px; height:60px; padding-bottom:60px;" /> </#if> <span class="nameandaddress"></span><br /><span class="nameandaddress">${companyInformation.addressText}<br/>${companyInformation.phone}<br/></span>
+              <span>${companyInformation.email}</span>
+              </td>
+
+              
+	<td align="right"><span style="font-size: 28pt; padding-bottom:5px;">${record@title}</span></td></tr>
+              
+              <tr>
+              <td align="right"><br /><b align="right" style="align:right;">Invoice Date</b></td>
+				</tr>
+	<tr>
+	<td align="right">${record.trandate}</td>
+	</tr>
+	<tr>
+	<td align="right"><b>Invoice Number</b></td>
+	</tr><tr>
+	<td align="right">${record.tranid}</td>
+	</tr></table>
+        </macro>
+        <macro id="nlfooter">
+            <table class="footer" style="width: 100%;"><tr>
+	<td><barcode codetype="code128" showtext="true" value="${record.tranid}"/></td>
+	<td align="right"><pagenumber/> of <totalpages/></td>
+	</tr></table>
+        </macro>
+    </macrolist>
+    <style type="text/css">table {
+        <#if .locale == "zh_CN">
+            font-family: stsong, sans-serif;
+        <#elseif .locale == "zh_TW">
+            font-family: msung, sans-serif;
+        <#elseif .locale == "ja_JP">
+            font-family: heiseimin, sans-serif;
+        <#elseif .locale == "ko_KR">
+            font-family: hygothic, sans-serif;
+        <#elseif .locale == "ru_RU">
+            font-family: verdana;
+        <#else>
+            font-family: sans-serif;
+        </#if>
+            font-size: 9pt;
+            table-layout: fixed;
+        }
+        th {
+            font-weight: bold;
+            font-size: 8pt;
+            vertical-align: middle;
+            padding: 5px 6px 3px;
+            color: #333333;
+          border: 1px 1px 1px 1px;
+        }
+       th.thbr {
+            font-weight: bold;
+            font-size: 8pt;
+            vertical-align: middle;
+            padding: 5px 6px 3px;
+            color: #333333;
+          border-top: 1px;
+        border-right: 1px;
+         border-bottom: 1px;
+         border-left: 0px;
+        }
+      th.itemtab {
+            font-weight: bold;
+            font-size: 8pt;
+            vertical-align: middle;
+            
+            color: #333333;
+          border: 1px 1px 1px 1px;
+        }
+      th.itemtabbr {
+            font-weight: bold;
+            font-size: 8pt;
+            vertical-align: middle;
+            
+            color: #333333;
+          border-top: 1px;
+        border-right: 1px;
+         border-bottom: 1px;
+        border-left: 0px;
+        }
+      th.itemtab1 {
+            font-weight: bold;
+            font-size: 6pt;
+            vertical-align: middle;
+            
+            color: #333333;
+          border: 1px 1px 1px 1px;
+        }
+      th.itemtab1br {
+            font-weight: bold;
+            font-size: 6pt;
+            vertical-align: middle;
+            
+            color: #333333;
+        border-left: 0px;
+          border-top: 1px;
+        border-right: 1px;
+         border-bottom: 1px;
+        }
+        td {
+            padding: 4px 6px;
+         
+        }
+      td.bordered {
+        padding: 4px 6px;
+         border-top: 0px;
+        border-right: 1px;
+         border-bottom: 1px;
+        border-left: 1px;
+      }
+      td.borderedbr {
+        padding: 4px 6px;
+         border-top: 0px;
+        border-right: 1px;
+         border-bottom: 1px;
+      }
+      td.borderall {
+        padding: 4px 6px;
+         border-top: 1px;
+        border-right: 1px;
+         border-bottom: 1px;
+        border-left: 1px;
+      }
+      td.borderrl {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-right: 1px;
+      }
+      td.borderl {
+        padding: 4px 6px;
+         border-left: 1px;
+        
+      }
+      td.borderlb {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-bottom: 1px;
+      }
+      td.borderb {
+        padding: 4px 6px;
+
+        border-bottom: 1px;
+      }
+      td.borderrlb {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-right: 1px;
+        border-bottom: 1px;
+      }
+      td.borderr {
+        padding: 4px 6px;
+   
+        border-right: 1px;
+      }
+      td.borderrb {
+        padding: 4px 6px;
+   
+        border-right: 1px;
+        border-bottom: 1px;
+      }
+        b {
+            font-weight: bold;
+            color: #333333;
+        }
+        table.header td {
+            padding: 0px;
+            font-size: 10pt;
+        }
+        table.footer td {
+            padding: 0px;
+            font-size: 8pt;
+        }
+        table.itemtable th {
+            padding-bottom: 10px;
+            padding-top: 10px;
+        }
+        table.body td {
+            padding-top: 2px;
+        }
+        table.total {
+            page-break-inside: avoid;
+        }
+        tr.totalrow {
+            background-color: #e3e3e3;
+            line-height: 200%;
+        }
+        td.totalboxtop {
+            font-size: 12pt;
+            background-color: #e3e3e3;
+        }
+        td.addressheader {
+            font-size: 8pt;
+            padding-top: 6px;
+            padding-bottom: 2px;
+        }
+        td.address {
+            padding-top: 0px;
+        }
+        td.totalboxmid {
+            font-size: 28pt;
+            padding-top: 20px;
+            background-color: #e3e3e3;
+        }
+        td.totalboxbot {
+            background-color: #e3e3e3;
+            font-weight: bold;
+        }
+        span.title {
+            font-size: 28pt;
+        }
+        span.number {
+            font-size: 16pt;
+        }
+        span.itemname {
+            font-weight: bold;
+            line-height: 150%;
+        }
+        hr {
+            width: 100%;
+            color: #d3d3d3;
+            background-color: #d3d3d3;
+            height: 1px;
+        }
+</style>
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[],AKSB.mark=function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"501074",ustr:"",originlat:"0",clientrtt:"10",ghostip:"66.110.32.223",ipv6:false,pct:"10",clientip:"38.88.174.194",requestid:"128b233",region:"26900",protocol:"h2",blver:12,akM:"x",akN:"ae",akTT:"O",akTX:"1",akTI:"128b233",ai:"329458",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
+<body header="nlheader" header-height="10%" footer="nlfooter" footer-height="20pt" padding="0.5in 0.5in 0.5in 0.5in" size="Letter"><br />
+    <table style="width: 100%; margin-top: 10px;" top="-20"><tr>
+	<td class="addressheader" colspan="6"><b>Customer Number</b> ${record.entity.entityid}</td>
+
+	</tr>
+      <tr>
+	<td class="addressheader"  colspan="3"><b>Sold To</b></td>
+	<td class="addressheader"  colspan="3"><b>${record.shipaddress@label}</b></td>
+	</tr>
+	<tr>
+	<td class="address"  colspan="3" >${record.billaddress}</td>
+	<td class="address"  colspan="3" >${record.shipaddress}</td>
+	</tr></table>
+
+<#if record.entity.custentity_commoditycode?has_content><p style="font-size: 9pt; font-family: sans-serif;"><b>Commodity Code Information:</b> ${record.entity.custentity_commoditycode}</p></#if>
+
+<table class="body" style="width: 100%; margin-top: 5px;">
+  <tr>
+    <td colspan="6">${record.memo}</td>
+    </tr>
+  <tr>
+	<th>Purchase Order No.</th>
+	<th class="thbr">Date Shipped</th>
+	<th class="thbr">Terms</th>
+	<th class="thbr">Ship Via</th>
+<!--	<th class="thbr">F.O.B.</th>	-->
+<!--	<th class="thbr">Department</th>-->
+    <th class="thbr">Tracking Number</th>
+	</tr>
+	<tr>
+	<td class="bordered">${record.otherrefnum}</td>
+	<td class="borderedbr">${record.shipdate}</td>
+	<td class="borderedbr">${record.terms}</td>
+	<td class="borderedbr">${record.shipmethod}</td>
+<!--	<td class="borderedbr">${record.fob}</td>			-->
+<!--	<td class="borderedbr">${record.department}</td>	-->
+    <td class="borderedbr">${record.linkedtrackingnumbers}</td>
+	</tr>
+  <tr>
+    <td colspan="6">Special Instructions<br/>${record.custbody_spec_instructions}</td>
+    </tr>
+  </table>
+<#if record.item?has_content>
+
+<table class="body" style="width: 100%; margin-top: 10px;"><!-- start items --><#list record.item as item><#if item_index==0>
+<thead>
+	<tr>
+	<th class="itemtab1" colspan="3">Catalog Number</th>
+      <th class="itemtabbr"  align="center" colspan="9" >Item Description</th>
+	<th class="itemtab1br"  colspan="2" >Qty<br/> Ordered</th>
+	<th class="itemtab1br"  colspan="2">Qty<br/> B/ordered</th>
+	<th class="itemtab1br"  colspan="2">Qty<br/> Shipped</th>
+      <th class="itemtabbr"  align="center" colspan="3" >Base<br/> Price</th>
+      <th class="itemtabbr"  align="center" colspan="3" >Unit<br/> Price</th>
+      <th class="itemtabbr"  align="center" colspan="3">Amount</th>
+	</tr>
+</thead>
+</#if>
+    <tr>
+      <#if item.item=='Description'>https://system.sandbox.netsuite.com/app/center/card.nl?sc=-7&whence=
+    	<td class="borderrl"  colspan="3" ></td>
+        <td class="borderr" colspan="9">${item.description}</td>
+ 		 <td class="borderr" colspan="2" align="right"  ></td>
+  		<td class="borderr" colspan="2" align="right"  ></td>
+  		<td  class="borderr"   colspan="2"  align="right" ></td>
+        <td  class="borderr"   colspan="3"  align="right" ></td>
+  		<td  class="borderr" colspan="3"  align="right" ></td>
+		<td class="borderr"  colspan="3"  align="right" ></td>
+        <#else>
+          <td class="borderrl"  colspan="3" >${item.item}</td>
+         <#assign num1 = item.quantity>
+           <#assign num2 = item.quantityremaining>
+
+  		<td class="borderr" colspan="9">${item.description}</td>
+  		<td class="borderr" colspan="2" align="right"  >${item.quantity}</td>
+  		<td class="borderr" colspan="2" align="right"  >${item.quantityremaining}</td>
+             <#if num2?has_content>
+  		<td  class="borderr"   colspan="2"  align="right" >${num1-num2}</td>
+               <#else>
+                 <td  class="borderr"   colspan="2"  align="right" >${num1}</td>
+                 </#if>
+               <td  class="borderr" colspan="3"  align="right" >${item.custcol_baseprice}</td>
+  		<td  class="borderr" colspan="3"  align="right" >${item.rate}</td>
+		<td class="borderr"  colspan="3"  align="right" >${item.amount}</td>
+          </#if>
+</tr>
+  <#if item_index==record.item?size-1>
+<tr>
+    <td class="borderrlb"  colspan="3" ></td>
+  <td class="borderrb" colspan="9"></td>
+  <td class="borderrb" colspan="2" align="right"  ></td>
+  <td class="borderrb" colspan="2" align="right"  ></td>
+  <td  class="borderrb"   colspan="2"  align="right" ></td>
+  <td  class="borderrb"   colspan="3"  align="right" ></td>
+  <td  class="borderrb" colspan="3"  align="right" ></td>
+	<td class="borderrb"  colspan="3"  align="right" ></td>
+</tr>
+    <tr>
+      <td class="borderl"  colspan="19" style="font-size: 6pt;" >*Registered Trademark Of Vector Laboratories, Inc.</td>
+      <td  align="right"  colspan="5" >SUBTOTAL</td>
+      <td class="borderrl"  align="right"  colspan="3" >${record.subtotal}</td>
+    </tr>
+    <tr>
+      <td class="borderl"  colspan="19" >FEDERAL I.D. #94-2519610</td>
+      <td   align="right"  colspan="5" >TAX</td>
+      <td class="borderrl"  align="right"  colspan="3" >${record.taxtotal}</td>
+    </tr>
+    <tr>
+      <td class="borderl"  colspan="19" ></td>
+      <td   align="right"  colspan="5" >FREIGHT</td>
+      <td class="borderrl"  align="right"  colspan="3" >${record.shippingcost}</td>
+    </tr>
+    <tr>
+      <td class="borderlb"  colspan="15" >PLEASE NOTE: A service charge of 1 1/2% per month (18% per annum) will be charged to all past due accounts</td>
+      <td class="borderb"  align="right"  colspan="9" ><b>PLEASE PAY THIS AMOUNT >>></b></td>
+      <td class="borderall"  align="right"  colspan="3" >${record.total}</td>
+    </tr>
+ </#if>   
+	</#list><!-- end items --></table>
+
+</#if>
+</body>
+</pdf>

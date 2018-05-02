@@ -1,0 +1,4 @@
+Error,ExternalID,Customer(I),Status,Date,Item (I),Price Level,Rate(amount),Card Type,Card Holder Name,Credit Card #,Expires (MM/YYYY),Authorize Card,Address,Zip
+Inventory Revaluation is no longer the first transaction in the item's history,HL_TEST_01182018.1,1683,Pending Fulfillment,1/17/2018,1011,Custom,91.01,Visa,,4.012E+15,Dec-25,T,6860 Dallas Pkwy,750241234
+This record already exists,HL_TEST_01172018.30,1683,Pending Fulfillment,1/17/2018,1010,Custom,91.06,Discover,,6.011E+15,Dec-25,T,6860,75024
+This record already exists,HL_TEST_01172018.31,1683,Pending Fulfillment,1/17/2018,1010,Custom,91.07,Discover,,6.011E+15,Dec-25,T,6860,75024

@@ -1,0 +1,287 @@
+<?xml version="1.0"?><!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd"><pdfset><#if statements??><#list statements as statement>
+<pdf>
+<head>
+<#if .locale == "ru_RU">
+    <link name="verdana" type="font" subtype="opentype" src="${nsfont.verdana}" src-bold="${nsfont.verdana_bold}" bytes="2" />
+</#if>
+    <macrolist>
+        <macro id="nlheader">
+            <table class="header" style="width: 100%;"><tr>
+              
+              <td align="left"><#if companyInformation.logoUrl?length != 0><img src="${companyInformation.logoUrl}" style="float: left; width:150px; height:60px; padding-bottom:40px; padding-right:10px;" /> </#if><span class="nameandaddress">${companyInformation.addressText}<br/>${companyInformation.phone}<br />${companyInformation.email}<br /><br /></span>
+              </td>
+              
+              <!--
+	<td align="right"><#if companyInformation.logoUrl?length != 0><img src="${companyInformation.logoUrl}" style="float: left; margin: 7px; width:80px; height:80px;" /> </#if><span class="nameandaddress">${companyInformation.companyName}</span><br /><span class="nameandaddress">${companyInformation.addressText}<br/>TELEPHONE: (650) 697-3600<br/>FAX: (650) 697-0339</span></td>
+              -->
+              
+              
+	<td align="center"><span class="title">${record@title}</span></td>
+	</tr>
+	</table>
+        </macro>
+        <macro id="nlfooter">
+            <table class="footer" style="width: 100%;"><tr>
+	<td align="right"><pagenumber/> of <totalpages/></td>
+	</tr></table>
+        </macro>
+    </macrolist>
+    <style type="text/css">table {
+            <#if .locale == "zh_CN">
+                font-family: stsong, sans-serif;
+            <#elseif .locale == "zh_TW">
+                font-family: msung, sans-serif;
+            <#elseif .locale == "ja_JP">
+                font-family: heiseimin, sans-serif;
+            <#elseif .locale == "ko_KR">
+                font-family: hygothic, sans-serif;
+            <#elseif .locale == "ru_RU">
+                font-family: verdana;
+            <#else>
+                font-family: sans-serif;
+            </#if>
+            font-size: 9pt;
+            table-layout: fixed;
+        }
+        th {
+            font-weight: bold;
+            font-size: 8pt;
+            vertical-align: middle;
+            padding: 5px 6px 3px;
+            background-color: #e3e3e3;
+            color: #333333;
+        }
+        td {
+            padding: 4px 6px;
+        }
+      td.gray {
+            padding: 4px 6px;
+        background-color:lightgrey;
+        border-bottom:1px;
+        border-left:1px;
+        border-right:1px;
+        border-top:1px;
+        }
+      td.gray1 {
+            padding: 4px 6px;
+        background-color:lightgrey;
+        border-bottom:1px;
+        border-right:1px;
+        border-top:1px;
+        }
+      th.gray {
+            padding: 4px 6px;
+        background-color:lightgrey;
+        border-bottom:1px;
+        border-left:1px;
+        border-right:1px;
+        border-top:1px;
+        }
+      td.borderrl {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-right: 1px;
+      }
+      td.borderr {
+        padding: 4px 6px;
+   
+        border-right: 1px;
+      }
+      td.borderlb {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-bottom: 1px;
+      }
+      td.borderb {
+        padding: 4px 6px;
+
+        border-bottom: 1px;
+      }
+      td.borderrb {
+        padding: 4px 6px;
+border-right: 1px;
+        border-bottom: 1px;
+      }
+      td.borderrlb {
+        padding: 4px 6px;
+         border-left: 1px;
+        border-right: 1px;
+        border-bottom: 1px;
+      }
+      td.borderrlbgray {
+         background-color:lightgrey;
+        padding: 4px 6px;
+         border-left: 1px;
+        border-right: 1px;
+        border-bottom: 1px;
+      }
+      td.borderrbgray {
+         background-color:lightgrey;
+        padding: 4px 6px;
+        border-right: 1px;
+        border-bottom: 1px;
+      }
+      td.borderbgray {
+         background-color:lightgrey;
+        padding: 4px 6px;
+        border-bottom: 1px;
+      }
+      th.gray1 {
+            padding: 4px 6px;
+        background-color:lightgrey;
+        border-bottom:1px;
+        border-right:1px;
+        border-top:1px;
+        }
+      td.wb {
+            padding: 4px 6px;
+        border-left:1px;
+        border-right:1px;
+        border-bottom:1px;
+        }
+        b {
+            font-weight: bold;
+            color: #333333;
+        }
+      td.under {
+        font-size:6pt;
+      }
+        table.header td {
+            padding: 0;
+            font-size: 10pt;
+        }
+        table.footer td {
+            padding: 0;
+            font-size: 8pt;
+        }
+        table.itemtable th {
+            padding-bottom: 10px;
+            padding-top: 10px;
+        }
+        table.body td {
+            padding-top: 2px;
+        }
+        td.addressheader {
+            font-size: 8pt;
+            padding-top: 6px;
+            padding-bottom: 2px;
+        }
+        td.address {
+            padding-top: 0px;
+        }
+        span.title {
+            font-size: 28pt;
+        }
+        span.number {
+            font-size: 16pt;
+        }
+        hr {
+            border-top: 1px dashed #d3d3d3;
+            width: 100%;
+            color: #ffffff;
+            background-color: #ffffff;
+            height: 1px;
+        }
+</style>
+</head>
+<body header="nlheader" header-height="10%" footer="nlfooter" footer-height="20pt" padding="0.5in 0.5in 0.5in 0.5in" size="Letter">
+  <br /><br />
+    <table style="width: 100%;"><tr>
+	<td class="addressheader" colspan="3"><b>To</b><br/>${statement.billaddress}</td>
+      <td  colspan="3"></td>
+      <td  colspan="3"><table ><tr><td class="gray">STATEMENT DATE</td></tr><tr><td class="wb">${statement.trandate}</td></tr><tr><td class="under">ITEMS AFTER THIS DATE WILL APPEAR ON YOUR NEXT STATEMENT.</td></tr></table></td>
+      <td  colspan="3"><table ><tr><td class="gray">ACCOUNT NO.</td></tr><tr><td class="wb">${statement.accountnumber}</td></tr><tr><td class="under">PLEASE REFER TO THIS ACCOUNT NUMBER WHEN MAKING INQUIRIES.</td></tr></table></td>
+      
+	</tr>
+      <tr>
+	<td style="height:35px;"  colspan="3" rowspan="2"></td>
+      <td style="height:35px;"   colspan="3" rowspan="2"></td>
+      <td  style="height:35px;"  colspan="3" rowspan="2"></td>
+      <td  style="height:35px;"  colspan="4" rowspan="2"></td>
+      
+	</tr>
+	</table>
+<table class="itemtable" style="width: 100%; margin-top: 10px;"><!-- start items -->
+<thead>
+  <tr><td></td></tr>
+	<tr>
+	<th class="gray" colspan="3">${statement.lines.datecol@label}</th>
+	<th class="gray1" colspan="12">${statement.lines.description@label}</th>
+	<th class="gray1" align="right" colspan="3">${statement.lines.charge@label}</th>
+	<th class="gray1" align="right" colspan="4">${statement.lines.payment@label}</th>
+	<th class="gray1" align="right" colspan="4">${statement.lines.balance@label}</th>
+	</tr>
+</thead>
+<#list statement.lines as line><tr>
+	<td class="borderrl"  colspan="3">${line.datecol}</td>
+	<td class="borderr"  colspan="12">${line.description}</td>
+	<td class="borderr"  align="right" colspan="3">${line.charge}</td>
+	<td class="borderr"  align="right" colspan="4">${line.payment}</td>
+	<td class="borderr"  align="right" colspan="4">${line.balance}</td>
+	</tr>
+  <#if line_index==statement.lines?size-1>
+<tr>
+    <td class="borderrlb"  colspan="3" ></td>
+  <td class="borderrb" colspan="12"></td>
+  <td class="borderrb" colspan="3" align="right"  ></td>
+  <td class="borderrb" colspan="4" align="right"  ></td>
+	<td class="borderrb"  colspan="4"  align="right" ></td>
+</tr>
+    <tr>
+<!--    <td class="borderrlbgray"  colspan="7" >CODES:</td>	-->
+  <td class="borderrlbgray" colspan="3">CURRENT</td>
+      <td class="borderbgray" colspan="3">30 DAYS</td>
+      <td class="borderbgray" colspan="3">60 DAYS</td>
+      <td class="borderrbgray" colspan="3">OVER 90 DAYS</td>
+  <td class="borderrbgray" colspan="3" align="right"  ></td>
+  <td class="borderrbgray" colspan="11" align="right"  ></td>
+</tr>
+    <tr>
+<!--    <td class="borderrlb"  colspan="7" >CODES:</td>	   -->
+  <td class="borderrlb" colspan="3">${statement.aging2}</td>
+      <td class="borderb" colspan="3">${statement.aging3}</td>
+      <td class="borderb" colspan="3">${statement.aging4}</td>
+      <td class="borderrb" colspan="3">${statement.aging5}</td>
+  <td class="borderrb" colspan="3" align="right"  ><b>PLEASE PAY</b></td>
+  <td class="borderrb" colspan="11" align="right"  >${statement.agingbal}</td>
+</tr>
+    <tr>
+    <td  colspan="26" >PLEASE NOTE: A SERVICE CHARGE OF 1 1/2% PER MONTH (18% PER ANNUM) WILL BE CHARGED ON ALL PAST DUE ACCOUNTS</td>
+</tr>
+     </#if>
+	</#list></table>
+<#if preferences.RETURNFORM && remittanceSlip??>
+
+<hr />
+<div class="remittanceSlip">
+<table style="width: 100%; margin-top: 10px;"><tr>
+	<td><span class="nameandaddress">${companyInformation.companyName}</span></td>
+	<td align="right"><span class="number">${remittanceSlip@title}</span></td>
+	</tr></table>
+
+<table style="width: 100%; margin-top: 10px;"><tr>
+	<th>${remittanceSlip.customername@label}</th>
+	<th>${statement.trandate@label}</th>
+	<th>${statement.amountDue@label}</th>
+	<th>${remittanceSlip.amountPaid@label}</th>
+	</tr>
+	<tr>
+	<td>${companyInformation.addressText}</td>
+	<td>${statement.trandate}</td>
+	<td align="right">${statement.amountDue}</td>
+	<td>&nbsp;</td>
+	</tr></table>
+
+<table style="width: 100%; margin-top: 10px;"><tr>
+	<th>${remittanceSlip.ccinfo@label}</th>
+	<th>${remittanceSlip.companyaddress@label}</th>
+	</tr>
+	<tr>
+	<td>${remittanceSlip.ccinfo}</td>
+	<td>${companyInformation.addressText}</td>
+	</tr></table>
+</div>
+</#if></body></pdf></#list><#else><pdf><head></head><body>
+
+</body>
+</pdf></#if></pdfset>

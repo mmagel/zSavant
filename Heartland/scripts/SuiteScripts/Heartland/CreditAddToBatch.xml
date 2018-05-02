@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:hps="http://Hps.Exchange.PosGateway">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <hps:PosRequest>
+            <hps:Ver1.0>
+                <hps:Header>
+                    <hps:SecretAPIKey>[secretApiKey]</hps:SecretAPIKey>
+                    <hps:VersionNbr>1234</hps:VersionNbr>
+                    <hps:DeveloperID>123456</hps:DeveloperID>
+                    <hps:SiteTrace>trace0001</hps:SiteTrace>
+                </hps:Header>
+                <hps:Transaction>
+                    <hps:CreditAddToBatch>
+                        <hps:GatewayTxnId>[GatewayTxnId]</hps:GatewayTxnId>
+                        <!--
+                        <hps:Amt>35</hps:Amt>
+                        <hps:GratuityAmtInfo>3</hps:GratuityAmtInfo>
+                        -->
+                    </hps:CreditAddToBatch>
+                </hps:Transaction>
+            </hps:Ver1.0>
+        </hps:PosRequest>
+    </soapenv:Body>
+</soapenv:Envelope>

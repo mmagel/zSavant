@@ -1,0 +1,481 @@
+Customer Internal ID,Client,Service Type,Contract Date
+76,HP Inc,Annual Retainer,23-Jun-17
+135,XL Group,SoP,15-Jun-17
+119,Texas Instruments,Annual Retainer,9-Jun-17
+2429,Allstate,Annual Retainer,6-Jun-17
+79,JPMorgan,Annual Retainer,30-May-17
+12567,Republic Services,Annual Retainer,30-May-17
+16043,LendingClub,Annual Retainer,26-May-17
+1444,Exelon,Annual Retainer,25-May-17
+16042,ConocoPhillips,SoP,24-May-17
+15011,Freeport,Annual Retainer,23-May-17
+15011,Freeport,SoP,23-May-17
+16050,MSG Networks,Other,19-May-17
+38,BHP,Activism,17-May-17
+1452,Intercontinental Exchange,Other,16-May-17
+31,Atlas,Annual Retainer,15-May-17
+31,Atlas,SoP,15-May-17
+31,Atlas,Vote No,15-May-17
+16048,Legg Mason,SoP,2-May-17
+78,Intuit,Annual Retainer,1-May-17
+115,Sysco,Annual Retainer,1-May-17
+115,Sysco,Other,1-May-17
+115,Take Two Interactive,Annual Retainer,1-May-17
+115,Take Two Interactive,Shareholder Proposal,1-May-17
+15737,CVS Health,Annual Retainer,27-Apr-17
+15737,CVS Health,SoP,27-Apr-17
+47,Cardinal Health,Annual Retainer,25-Apr-17
+1447,Gilead Sciences,Annual Retainer,25-Apr-17
+15634,Wells Fargo,Vote No,22-Apr-17
+15635,Knowles,Annual Retainer,21-Apr-17
+15635,Knowles,SoP,21-Apr-17
+15220,American Express,SoP,14-Apr-17
+1428,Autodesk,Other,13-Apr-17
+14909,Mylan,SoP,11-Apr-17
+74,Honeywell,Annual Retainer,10-Apr-17
+15013,Universal Insurance,SoP,31-Mar-17
+28,Apache,Annual Retainer,30-Mar-17
+15011,Fiesta,Activism,30-Mar-17
+87,Mattel,SoP,28-Mar-17
+79,JPMorgan,Other,27-Mar-17
+79,JPMorgan,Shareholder Proposal,27-Mar-17
+79,JPMorgan,SoP,27-Mar-17
+14909,Mylan,Other,27-Mar-17
+103,Pfizer,Other,24-Mar-17
+31,AT&T,Annual Retainer,22-Mar-17
+15012,Range Resources,Annual Retainer,20-Mar-17
+93,MSG,Activism,17-Mar-17
+93,MSG,Vote No,17-Mar-17
+2436,Ebay,Annual Retainer,13-Mar-17
+1434,Cisco,Annual Retainer,8-Mar-17
+135,XL Group,Annual Retainer,2-Mar-17
+135,XL Group,SoP,2-Mar-17
+33,Avery Dennison,Annual Retainer,1-Mar-17
+103,Pfizer,Annual Retainer,28-Feb-17
+14508,Banc of California,Annual Retainer,24-Feb-17
+97,News Corp,Annual Retainer,24-Feb-17
+46,California Resources,Other,23-Feb-17
+14507,Baker Hughes,M&A,10-Feb-17
+109,Salesforce,Annual Retainer,10-Feb-17
+109,Salesforce,SoP,10-Feb-17
+25,AIG,Activism,9-Feb-17
+12567,Republic Services,Other,8-Feb-17
+111,Simpson Manufacturing ,Activism,31-Jan-17
+39,BorgWarner,Annual Retainer,24-Jan-17
+39,BorgWarner,SoP,24-Jan-17
+1442,Disney,Annual Retainer,24-Jan-17
+1442,Disney,SoP,24-Jan-17
+2431,Neustar,Other,23-Jan-17
+1452,Intercontinental Exchange,Annual Retainer,18-Jan-17
+27,AMC Networks,Annual Retainer,12-Jan-17
+15013,US Steel,Annual Retainer,12-Jan-17
+91,Microsoft,Annual Retainer,9-Jan-17
+82,Kroger,Annual Retainer,6-Jan-17
+82,Kroger,Other,6-Jan-17
+123,Time Warner Inc,M&A,6-Jan-17
+123,Time Warner Inc,Other,6-Jan-17
+14508,Bank of America,Annual Retainer,1-Jan-17
+20,ADP,Annual Retainer,22-Dec-16
+20,ADP,Other,22-Dec-16
+132,Vornado,Annual Retainer,20-Dec-16
+83,LabCorp,Annual Retainer,14-Dec-16
+16042,Corning,Annual Retainer,8-Dec-16
+19,Abbvie,Annual Retainer,7-Dec-16
+80,Kilroy,Annual Retainer,6-Dec-16
+93,MSG,Other,28-Nov-16
+75,HP Enterprise,Annual Retainer,26-Nov-16
+16043,Leucadia,Annual Retainer,22-Nov-16
+16043,Leucadia,SoP,22-Nov-16
+132,Walgreens,Annual Retainer,22-Nov-16
+8158,RPX,Annual Retainer,17-Nov-16
+8158,RPX,Other,17-Nov-16
+56,Dover Corporation,Annual Retainer,16-Nov-16
+56,Dover Corporation,Other,16-Nov-16
+99,Northrop Grumman ,Annual Retainer,5-Nov-16
+55,Delta Air Lines,Annual Retainer,4-Nov-16
+61,Edwards Lifesciences,Annual Retainer,1-Nov-16
+69,General Mills,Annual Retainer,1-Nov-16
+8157,Wolverine,SoP,26-Oct-16
+8156,Citigroup,Annual Retainer,17-Oct-16
+8156,Citigroup,SoP,17-Oct-16
+80,Kate Spade,Annual Retainer,13-Oct-16
+101,Omnicom,Annual Retainer,11-Oct-16
+68,General Dynamics,Annual Retainer,7-Oct-16
+2838,Applied Materials,SoP,30-Sep-16
+110,Sempra Energy,Annual Retainer,30-Sep-16
+110,Sempra Energy,SoP,30-Sep-16
+71,Goodyear,Annual Retainer,21-Sep-16
+93,MSG,Annual Retainer,16-Sep-16
+1528,Western Digital,SoP,14-Sep-16
+20,Acxiom,Activism,8-Sep-16
+79,Kaiser Aluminum,Annual Retainer,7-Sep-16
+58,Duke Energy,Annual Retainer,2-Sep-16
+23,Aflac,Annual Retainer,31-Aug-16
+88,McDermott,Annual Retainer,25-Aug-16
+90,MDC Holdings,Annual Retainer,11-Aug-16
+90,MDC Holdings,SoP,11-Aug-16
+25,Air Lease,SoP,10-Aug-16
+62,Equifax,Annual Retainer,10-Aug-16
+59,Dycom,Annual Retainer,4-Aug-16
+87,Mattel,Annual Retainer,4-Aug-16
+1526,Twitter,Annual Retainer,1-Aug-16
+15011,Freeport,Annual Retainer,21-Jul-16
+76,HP Inc,Annual Retainer,19-Jul-16
+53,Computer Sciences Corp,SoP,15-Jul-16
+2429,Allstate,Annual Retainer,14-Jul-16
+2429,Allstate,Shareholder Proposal,14-Jul-16
+105,Phillips 66,Annual Retainer,12-Jul-16
+105,Phillips 66,SoP,12-Jul-16
+1528,Western Digital,Annual Retainer,5-Jul-16
+118,Tenet Health,Annual Retainer,30-Jun-16
+1524,Allergan,Annual Retainer,29-Jun-16
+1524,Allergan,Shareholder Proposal,29-Jun-16
+1524,Allergan,SoP,29-Jun-16
+1524,Allergan,Vote No,29-Jun-16
+116,Target,Annual Retainer,29-Jun-16
+1452,Intercontinental Exchange,Other,21-Jun-16
+111,Simpson Manufacturing ,Annual Retainer,16-Jun-16
+111,Simpson Manufacturing ,SoP,16-Jun-16
+115,Take Two Interactive,Annual Retainer,8-Jun-16
+115,Take Two Interactive,Shareholder Proposal,8-Jun-16
+115,Take Two Interactive,SoP,8-Jun-16
+1444,Exelon,SoP,3-Jun-16
+119,Texas Instruments,Annual Retainer,1-Jun-16
+57,DOW,M&A,31-May-16
+12567,Republic Services,Annual Retainer,30-May-16
+79,JPMorgan,Annual Retainer,26-May-16
+1434,Chevron,Annual Retainer,25-May-16
+1434,Chevron,SoP,25-May-16
+1428,Autodesk,Annual Retainer,24-May-16
+15011,Freeport,SoP,23-May-16
+1434,Chevron,SoP,10-May-16
+74,Honeywell,Annual Retainer,10-May-16
+74,Honeywell,SoP,10-May-16
+35,Axiall,M&A,26-Apr-16
+78,Intuit,Annual Retainer,26-Apr-16
+110,Sempra Energy,SoP,24-Apr-16
+47,Cardinal Health,Annual Retainer,19-Apr-16
+2436,Ebay,Annual Retainer,15-Apr-16
+2436,Ebay,Shareholder Proposal,15-Apr-16
+56,Dover Corporation,Vote No,12-Apr-16
+135,XL Group,Annual Retainer,11-Apr-16
+135,XL Group,SoP,11-Apr-16
+98,Norfolk Southern,M&A,8-Apr-16
+98,Norfolk Southern,Shareholder Proposal,8-Apr-16
+41,Brocade,Annual Retainer,7-Apr-16
+1447,Gilead Sciences,Annual Retainer,7-Apr-16
+39,BorgWarner,Annual Retainer,1-Apr-16
+39,BorgWarner,SoP,1-Apr-16
+39,BorgWarner,Vote No,1-Apr-16
+31,AT&T,Annual Retainer,31-Mar-16
+51,Citrix,SoP,31-Mar-16
+132,Vornado,Vote No,18-Mar-16
+79,JPMorgan,Shareholder Proposal,16-Mar-16
+79,JPMorgan,SoP,16-Mar-16
+82,Kroger,Annual Retainer,16-Mar-16
+97,News Corp,Annual Retainer,11-Mar-16
+97,News Corp,Shareholder Proposal,11-Mar-16
+88,McDermott,SoP,9-Mar-16
+103,Pfizer,Annual Retainer,8-Mar-16
+103,Pfizer,M&A,8-Mar-16
+103,Pfizer,SoP,8-Mar-16
+27,AMC Networks,Annual Retainer,7-Mar-16
+87,Mattel,Shareholder Proposal,7-Mar-16
+20,Acxiom,SoP,26-Feb-16
+28,Amgen,Annual Retainer,25-Feb-16
+1434,Cisco,Annual Retainer,24-Feb-16
+1452,International Paper,Annual Retainer,24-Feb-16
+33,Avery Dennison,Annual Retainer,22-Feb-16
+19,Abbvie,SoP,19-Feb-16
+14508,Bank of America,Annual Retainer,12-Feb-16
+91,Microsoft,SoP,11-Feb-16
+28,Apache,Annual Retainer,3-Feb-16
+28,Apache,SoP,3-Feb-16
+123,Time Warner Inc,Annual Retainer,1-Feb-16
+123,Time Warner Inc,Other,1-Feb-16
+1442,Disney,Annual Retainer,29-Jan-16
+1442,Disney,SoP,29-Jan-16
+115,Sysco,Activism,29-Jan-16
+118,Tesla,Shareholder Proposal,26-Jan-16
+20,ADP,Annual Retainer,20-Jan-16
+128,Varian Medical,SoP,18-Jan-16
+25,AIG,Activism,14-Jan-16
+15013,US Steel,SoP,14-Jan-16
+91,Microsoft,Annual Retainer,6-Jan-16
+80,Kilroy,Annual Retainer,22-Dec-15
+136,Yahoo,Activism,10-Dec-15
+16043,Leucadia,Annual Retainer,9-Dec-15
+16043,Leucadia,SoP,9-Dec-15
+16042,Corning,Annual Retainer,8-Dec-15
+16042,Corning,SoP,8-Dec-15
+113,Staples,Annual Retainer,8-Dec-15
+83,LabCorp,Annual Retainer,3-Dec-15
+132,Vornado,Annual Retainer,3-Dec-15
+98,Norfolk Southern,M&A,27-Nov-15
+99,Northrop Grumman ,Annual Retainer,24-Nov-15
+118,Tenet Health,Other,20-Nov-15
+56,Dover Corporation,Annual Retainer,18-Nov-15
+15011,Freeport,Activism,18-Nov-15
+15011,Freeport,Annual Retainer,18-Nov-15
+65,Exxon,Shareholder Proposal,17-Nov-15
+61,Edwards Lifesciences,Annual Retainer,11-Nov-15
+80,Kate Spade,SoP,4-Nov-15
+69,General Mills,Annual Retainer,1-Nov-15
+88,McDonald's,Activism,29-Oct-15
+88,McDonald's,Annual Retainer,29-Oct-15
+110,Sempra Energy,Annual Retainer,29-Oct-15
+91,Medical Prop Trust,SoP,28-Oct-15
+26,Alexander & Baldwin,Activism,16-Oct-15
+26,Alexander & Baldwin,Annual Retainer,16-Oct-15
+126,Tower Watson,M&A,15-Oct-15
+48,Cheniere,Annual Retainer,14-Oct-15
+48,Cheniere,SoP,14-Oct-15
+101,Omnicom,Annual Retainer,8-Oct-15
+101,Omnicom,Shareholder Proposal,8-Oct-15
+101,Omnicom,Vote No,8-Oct-15
+102,Pepsi,Annual Retainer,6-Oct-15
+109,Salesforce,Annual Retainer,5-Oct-15
+109,Salesforce,SoP,5-Oct-15
+125,Tivo,SoP,2-Oct-15
+23,Aflac,Annual Retainer,1-Oct-15
+68,General Dynamics,Annual Retainer,30-Sep-15
+31,Atlas,Annual Retainer,25-Sep-15
+31,Atlas,SoP,25-Sep-15
+92,Morgan Stanley,Annual Retainer,25-Sep-15
+87,Mattel,Annual Retainer,22-Sep-15
+19,Abbvie,Annual Retainer,18-Sep-15
+71,Goodyear,Annual Retainer,10-Sep-15
+57,DOW,Activism,8-Sep-15
+105,Phillips 66,SoP,27-Aug-15
+55,Delta Air Lines,Annual Retainer,21-Aug-15
+75,HP Enterprise,Annual Retainer,17-Aug-15
+76,HP Inc,Annual Retainer,17-Aug-15
+62,Equifax,Annual Retainer,12-Aug-15
+58,Duke Energy,Annual Retainer,11-Aug-15
+105,Phillips 66,Annual Retainer,1-Aug-15
+115,Sysco,Annual Retainer,24-Jul-15
+111,Simpson Manufacturing ,Annual Retainer,23-Jul-15
+111,Simpson Manufacturing ,SoP,23-Jul-15
+118,Tenet Health,Annual Retainer,22-Jul-15
+76,HP Inc,Annual Retainer,20-Jul-15
+1434,Cisco,Shareholder Proposal,14-Jul-15
+102,Oracle,SoP,11-Jul-15
+133,Walmart,Annual Retainer,1-Jul-15
+14508,Bank of America,Shareholder Proposal,30-Jun-15
+25,AIG,Activism,29-Jun-15
+48,Caterpillar Inc,SoP,26-Jun-15
+53,Computer Sciences Corp,Annual Retainer,16-Jun-15
+115,Take Two Interactive,Annual Retainer,16-Jun-15
+115,Take Two Interactive,SoP,16-Jun-15
+116,Target,Annual Retainer,16-Jun-15
+40,Bristol-Myers Squibb,Annual Retainer,12-Jun-15
+40,Bristol-Myers Squibb,SoP,12-Jun-15
+119,Texas Instruments,Annual Retainer,11-Jun-15
+12567,Republic Services,Annual Retainer,3-Jun-15
+79,JPMorgan,Annual Retainer,2-Jun-15
+88,McDermott,Annual Retainer,1-Jun-15
+48,Caterpillar Inc,SoP,30-May-15
+87,Mattel,Shareholder Proposal,26-May-15
+22,Aetna,M&A,24-May-15
+78,Intuit,Annual Retainer,20-May-15
+36,Babcock & Wilcox,Annual Retainer,15-May-15
+47,Cardinal Health,Annual Retainer,6-May-15
+1447,Gilead Sciences,Annual Retainer,5-May-15
+28,Apache,Annual Retainer,29-Apr-15
+28,Apache,SoP,29-Apr-15
+88,McDermott,SoP,28-Apr-15
+88,McDermott,Vote No,28-Apr-15
+40,Bristol-Myers Squibb,SoP,22-Apr-15
+65,Exxon,Shareholder Proposal,15-Apr-15
+85,Macerich,Vote No,15-Apr-15
+36,Babcock & Wilcox,SoP,14-Apr-15
+41,Brocade,Annual Retainer,7-Apr-15
+41,Brocade,Shareholder Proposal,7-Apr-15
+41,Brocade,Vote No,7-Apr-15
+106,Priceline,Shareholder Proposal,7-Apr-15
+31,AT&T,Annual Retainer,1-Apr-15
+74,Honeywell,Annual Retainer,27-Mar-15
+74,Honeywell,SoP,27-Mar-15
+30,Ariad,Activism,26-Mar-15
+1434,Cisco,Annual Retainer,25-Mar-15
+79,JPMorgan,Shareholder Proposal,24-Mar-15
+79,JPMorgan,SoP,24-Mar-15
+131,VMware,Annual Retainer,17-Mar-15
+46,Cablevision,Annual Retainer,13-Mar-15
+46,Cablevision,Vote No,13-Mar-15
+103,Pfizer,Annual Retainer,13-Mar-15
+88,McDonald's,Shareholder Proposal,10-Mar-15
+88,McDonald's,SoP,10-Mar-15
+88,McDonald's,Vote No,10-Mar-15
+24,Agilent Technologies,SoP,4-Mar-15
+33,Avery Dennison,Annual Retainer,4-Mar-15
+85,Marathon,Shareholder Proposal,3-Mar-15
+85,Macerich,Annual Retainer,26-Feb-15
+123,Time Warner Inc,Annual Retainer,26-Feb-15
+123,Time Warner Inc,SoP,26-Feb-15
+103,Pfizer,SoP,9-Feb-15
+27,AMC Networks,Annual Retainer,5-Feb-15
+48,Cheniere,SoP,4-Feb-15
+89,McKesson,Annual Retainer,27-Jan-15
+46,California Resources,Annual Retainer,20-Jan-15
+15011,Freeport,Shareholder Proposal,16-Jan-15
+15011,Freeport,SoP,16-Jan-15
+80,Kilroy,Annual Retainer,13-Jan-15
+1528,WindStream,Annual Retainer,2-Jan-15
+1528,WindStream,Shareholder Proposal,2-Jan-15
+71,Goldman Sachs,Annual Retainer,1-Jan-15
+14508,Bank of America,Annual Retainer,23-Dec-14
+14508,Bank of America,Shareholder Proposal,23-Dec-14
+14508,Bank of America,Vote No,23-Dec-14
+96,New York Community Bancorp,Annual Retainer,22-Dec-14
+83,LabCorp,Annual Retainer,18-Dec-14
+132,Vornado,Annual Retainer,18-Dec-14
+1442,Disney,Annual Retainer,16-Dec-14
+1442,Disney,SoP,16-Dec-14
+113,Staples,Annual Retainer,12-Dec-14
+113,Staples,SoP,12-Dec-14
+16043,Leucadia,Annual Retainer,9-Dec-14
+16043,Leucadia,SoP,9-Dec-14
+116,Target,SoP,5-Dec-14
+19,Abbvie,Annual Retainer,2-Dec-14
+69,General Mills,Annual Retainer,25-Nov-14
+1451,Incapture Investments,Other,21-Nov-14
+48,Cheniere,Annual Retainer,30-Oct-14
+31,Atlas,Annual Retainer,27-Oct-14
+31,Atlas,SoP,27-Oct-14
+62,EMC,Activism,20-Oct-14
+71,Goodyear,Annual Retainer,20-Oct-14
+71,Goodyear,SoP,20-Oct-14
+16042,Corning,Annual Retainer,15-Oct-14
+16042,Corning,SoP,15-Oct-14
+68,General Dynamics,Other,8-Oct-14
+1463,Stanford,Other,7-Oct-14
+133,Walmart,Annual Retainer,2-Oct-14
+88,McDonald's,Annual Retainer,1-Oct-14
+102,Oracle,SoP,1-Oct-14
+73,Hasbro,Annual Retainer,26-Sep-14
+73,Hasbro,SoP,26-Sep-14
+33,Avon Products,Annual Retainer,16-Sep-14
+33,Avon Products,SoP,16-Sep-14
+93,MSG,Activism,6-Sep-14
+15011,Freeport,Annual Retainer,5-Sep-14
+58,Duke Energy,Annual Retainer,2-Sep-14
+102,Pepsi,Activism,30-Aug-14
+116,Target,Annual Retainer,29-Aug-14
+116,Target,Shareholder Proposal,29-Aug-14
+68,General Dynamics,Annual Retainer,27-Aug-14
+68,General Dynamics,SoP,27-Aug-14
+129,Visa,Annual Retainer,27-Aug-14
+38,Bank of Hawaii,SoP,26-Aug-14
+62,Equifax,Annual Retainer,19-Aug-14
+62,Equifax,SoP,19-Aug-14
+1448,Govt Prop Income Trust,Annual Retainer,6-Aug-14
+74,Hospitality Prop Trust,Annual Retainer,6-Aug-14
+1460,Select Income REIT,Annual Retainer,3-Aug-14
+105,Phillips 66,Annual Retainer,1-Aug-14
+105,Phillips 66,SoP,1-Aug-14
+110,Senior Housing Prop,Annual Retainer,25-Jul-14
+121,TIBCO,Annual Retainer,24-Jul-14
+91,Microsoft,Annual Retainer,11-Jul-14
+91,Microsoft,SoP,11-Jul-14
+15013,Valeant,M&A,30-Jun-14
+115,Take Two Interactive,Vote No,11-Jun-14
+119,Texas Instruments,Annual Retainer,11-Jun-14
+12567,Republic Services,Annual Retainer,3-Jun-14
+12567,Republic Services,SoP,3-Jun-14
+115,Take Two Interactive,Annual Retainer,23-May-14
+115,Take Two Interactive,Shareholder Proposal,23-May-14
+115,Take Two Interactive,SoP,23-May-14
+59,Dupont,Activism,22-May-14
+79,JPMorgan,Annual Retainer,21-May-14
+33,Avery Dennison,Annual Retainer,19-May-14
+1452,International Paper,Annual Retainer,7-May-14
+15011,Freeport,Annual Retainer,6-May-14
+15011,Freeport,Shareholder Proposal,6-May-14
+15011,Freeport,SoP,6-May-14
+15011,Freeport,Vote No,6-May-14
+46,Cablevision,Vote No,2-May-14
+79,JPMorgan,SoP,14-Apr-14
+38,Bank of Hawaii,Annual Retainer,9-Apr-14
+38,Bank of Hawaii,SoP,9-Apr-14
+62,EMC,Shareholder Proposal,9-Apr-14
+123,Time Warner Cable,M&A,8-Apr-14
+33,Avery Dennison,SoP,3-Apr-14
+76,HP Inc,Annual Retainer,1-Apr-14
+103,Pfizer,Annual Retainer,20-Mar-14
+89,McKesson,SoP,10-Mar-14
+2436,Ebay,Activism,7-Mar-14
+29,Apple,Shareholder Proposal,5-Mar-14
+112,Sotheby's,Activism,5-Mar-14
+1442,Disney,Annual Retainer,21-Feb-14
+1442,Disney,Shareholder Proposal,21-Feb-14
+1442,Disney,SoP,21-Feb-14
+1434,Cisco,Annual Retainer,12-Feb-14
+107,QEP Resources,Activism,5-Feb-14
+1463,Sprint,Annual Retainer,29-Jan-14
+46,Cablevision,Annual Retainer,27-Jan-14
+16042,Corning,SoP,27-Jan-14
+132,Vornado,Annual Retainer,27-Jan-14
+123,Time Warner Inc,SoP,24-Jan-14
+80,Kilroy,Annual Retainer,15-Jan-14
+80,Kilroy,Shareholder Proposal,15-Jan-14
+80,Kilroy,SoP,15-Jan-14
+80,Kilroy,Vote No,15-Jan-14
+16042,Corning,Annual Retainer,10-Jan-14
+71,Goldman Sachs,Annual Retainer,10-Jan-14
+91,Microsoft,Activism,19-Dec-13
+83,LabCorp,Annual Retainer,17-Dec-13
+83,LabCorp,SoP,17-Dec-13
+59,Dupont,Activism,20-Nov-13
+41,Bunge,SoP,25-Oct-13
+116,Target,SoP,25-Oct-13
+116,Target,Vote No,25-Oct-13
+71,Goodyear,Annual Retainer,9-Oct-13
+71,Goodyear,SoP,9-Oct-13
+68,General Dynamics,SoP,14-Sep-13
+74,Hospitality Prop Trust,Annual Retainer,13-Sep-13
+54,Costco,Annual Retainer,4-Sep-13
+54,Costco,Shareholder Proposal,4-Sep-13
+54,Costco,Vote No,4-Sep-13
+2432,Air Products,Activism,30-Aug-13
+102,Pepsi,Activism,29-Aug-13
+1448,Govt Prop Income Trust,Annual Retainer,22-Aug-13
+31,Atlas,Annual Retainer,20-Aug-13
+31,Atlas,SoP,20-Aug-13
+110,Senior Housing Prop,Annual Retainer,9-Aug-13
+1460,Select Income REIT,Annual Retainer,25-Jul-13
+15737,Dell (Denali),M&A,24-Jul-13
+116,Target,Annual Retainer,19-Jul-13
+76,HP Inc,Annual Retainer,16-Jul-13
+89,McKesson,Shareholder Proposal,1-Jul-13
+102,Pepsi,Annual Retainer,26-Jun-13
+1436,CommonWealth,Activism,25-Jun-13
+1436,CommonWealth,Annual Retainer,25-Jun-13
+1436,CommonWealth,Vote No,25-Jun-13
+79,JPMorgan,Annual Retainer,21-Jun-13
+76,HP Inc,Other,1-Jun-13
+1456,Nvidia,Other,23-May-13
+89,McKesson,SoP,8-May-13
+1436,Comcast,Shareholder Proposal,1-May-13
+1463,Sprint,M&A,1-May-13
+1456,Occidental,SoP,25-Apr-13
+71,Goldman Sachs,Annual Retainer,1-Apr-13
+71,Goldman Sachs,Shareholder Proposal,1-Apr-13
+71,Goodyear,Annual Retainer,1-Apr-13
+71,Goodyear,SoP,1-Apr-13
+91,Microsoft,Activism,1-Apr-13
+1456,Occidental,Annual Retainer,1-Apr-13
+1456,Occidental,Vote No,1-Apr-13
+103,Pfizer,Annual Retainer,21-Feb-13
+1442,Disney,Annual Retainer,14-Feb-13
+1442,Disney,Shareholder Proposal,14-Feb-13
+1442,Disney,SoP,14-Feb-13
+99,NRG,SoP,28-Jan-13
+1463,Sprint,Annual Retainer,28-Jan-13
+1463,Sprint,M&A,28-Jan-13
+76,HP Inc,Shareholder Proposal,14-Dec-12
+102,Pepsi,Annual Retainer,20-Nov-12
+1442,Disney,Annual Retainer,1-Oct-12
+1434,Chevron,Annual Retainer,26-Sep-12
+1436,Comcast,Annual Retainer,1-Jul-12
+,zzzzz,zzzzz,31-Dec-99

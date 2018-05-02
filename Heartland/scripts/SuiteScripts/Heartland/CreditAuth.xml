@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:tns="http://Hps.Exchange.PosGateway">
+    <soap:Header>
+    </soap:Header>
+    <soap:Body>
+        <tns:PosRequest>
+            <tns:Ver1.0>
+                <tns:Header>
+                    <tns:SecretAPIKey>[secretApiKey]</tns:SecretAPIKey>
+                    <tns:VersionNbr>1234</tns:VersionNbr>
+                    <tns:DeveloperID>123456</tns:DeveloperID>
+                    <tns:SiteTrace>trace0001</tns:SiteTrace>
+                </tns:Header>
+                <tns:Transaction>
+                    <tns:CreditAuth>
+                        <tns:Block1>
+                            <tns:CardData>
+                                <tns:ManualEntry>
+                                    <tns:CardNbr>[CardNbr]</tns:CardNbr>
+                                    <tns:ExpMonth>[ExpMonth]</tns:ExpMonth>
+                                    <tns:ExpYear>[ExpYear]</tns:ExpYear>
+                                    <!--<tns:CVV2>[CVV2]</tns:CVV2> -->
+                                    <tns:CardPresent>N</tns:CardPresent>
+                                    <tns:ReaderPresent>N</tns:ReaderPresent>
+                                </tns:ManualEntry>
+                                <tns:TokenRequest>N</tns:TokenRequest>
+                            </tns:CardData>
+                            <tns:Amt>[Amt]</tns:Amt>
+                            <tns:CardHolderData>
+                                <!--
+                                <tns:CardHolderFirstName>[CardHolderFirstName]</tns:CardHolderFirstName>
+                                <tns:CardHolderLastName>[CardHolderLastName]</tns:CardHolderLastName>
+                                <tns:CardHolderAddr>[CardHolderAddr]</tns:CardHolderAddr>
+                                <tns:CardHolderCity>[CardHolderCity]</tns:CardHolderCity>
+                                <tns:CardHolderState>[CardHolderState]</tns:CardHolderState>
+                                -->
+                                <tns:CardHolderZip>[CardHolderZip]</tns:CardHolderZip>
+                            </tns:CardHolderData>
+                            <tns:AllowDup>Y</tns:AllowDup>
+                        </tns:Block1>
+                    </tns:CreditAuth>
+                </tns:Transaction>
+            </tns:Ver1.0>
+        </tns:PosRequest>
+    </soap:Body>
+</soap:Envelope>

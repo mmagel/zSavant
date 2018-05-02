@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid XML Studio Developer Edition 9.0.11.3078 (http://www.liquid-technologies.com) -->
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:tns="http://Hps.Exchange.PosGateway">
+    <soap:Header>
+    </soap:Header>
+    <soap:Body>
+        <tns:PosRequest>
+            <tns:Ver1.0>
+                <tns:Header>
+                    <tns:SecretAPIKey>[secretApiKey]</tns:SecretAPIKey>
+                    <tns:VersionNbr>1234</tns:VersionNbr>
+                    <tns:DeveloperID>123456</tns:DeveloperID>
+                    <tns:SiteTrace>trace0001</tns:SiteTrace>
+                </tns:Header>
+                <tns:Transaction>
+                    <tns:ReportTxnDetail>
+                        <tns:TxnId>[TxnId]</tns:TxnId>
+                        <!--<tns:TzConversion>UTC</tns:TzConversion>-->
+                    </tns:ReportTxnDetail>
+                </tns:Transaction>
+            </tns:Ver1.0>
+        </tns:PosRequest>
+    </soap:Body>
+</soap:Envelope>

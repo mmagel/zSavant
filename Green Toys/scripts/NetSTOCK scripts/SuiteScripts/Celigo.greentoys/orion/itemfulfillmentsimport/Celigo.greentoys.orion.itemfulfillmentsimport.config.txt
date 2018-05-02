@@ -1,0 +1,433 @@
+{
+	"celigo_classname": "Celigo.integrator.batch.Import",
+	"pageSize" : 1,
+	"connector": 
+	{
+		"celigo_classname": "Celigo.integrator.connectors.ftp.FtpConnectorImpl",
+		"netSuiteFileType": "CSV",
+		"netSuiteFileExtension": "csv",
+		"method": "download",
+		"relativePath": "/OutboxTest/Confirmations",
+		"credentialRef": 
+		{
+			"celigo_classname": "Celigo.io.CredentialsManager",
+			"id": "pCmf3qFMkjkBlYlN"
+		},
+
+		"messageBackupFolder": 851,
+		"leaveFileOnServer": true
+	},
+
+	"responseMapper": 
+	{
+		"celigo_classname": "Celigo.integrator.mapper.flat.csv.CsvMapper"
+	},
+
+	"responseMappingRef": 
+	{
+		"recordMappings": 
+		[
+			{
+				"children": 
+				[
+					{
+						"children": 
+						[
+							
+						],
+
+						"fieldMappings": 
+						[
+							{
+								"jsField": "shipstatus",
+								"hardCodedValue": "C",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "_ordernumber",
+								"externalField": "SO#",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "celigo_nlobjTransformId",
+								"externalField": "SO#",
+								"lookupKey": "tranid",
+								"lookupAllowFailures": true,
+								"lookupSource": "salesorder",
+								"lookupType": "record",
+								"lookupValue": "internalid",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "_entity",
+								"externalField": "ShipTo Name",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "custbody_celigo_freightamount",
+								"externalField": "FreightAmount",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "custbody8",
+								"externalField": "FreightTerms",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "custbody7",
+								"externalField": "Priority",
+								"lookupKey": "",
+								"lookupAllowFailures": "",
+								"lookupSource": "priority",
+								"lookupType": "static",
+								"lookupValue": "",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "shippeddate",
+								"externalField": "ShipDate",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "shipmethod",
+								"externalField": "CarrierService",
+								"lookupKey": null,
+								"lookupAllowFailures": true,
+								"lookupSource": "IKbk0MVeT6kq1kLj",
+								"lookupType": "static",
+								"lookupValue": null,
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "custbody_celigo_totalcartons",
+								"externalField": "TotalCartons",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "celigo_replaceAllLinespackage",
+								"hardCodedValue": "T",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "celigo_replaceAllLinespackageups",
+								"hardCodedValue": "T",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "celigo_replaceAllLinespackagefedex",
+								"hardCodedValue": "T",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": null,
+								"inactive": true,
+								"externalField": "OrderNumber",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": null,
+								"inactive": true,
+								"externalField": "PO",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": null,
+								"inactive": true,
+								"externalField": "TotalWeight",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							},
+
+							{
+								"jsField": "celigo_recordmode_dynamic",
+								"hardCodedValue": "T",
+								"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+							}
+						],
+
+						"celigo_classname": "Celigo.integrator.mapping.model.LineMappingSet"
+					},
+
+					{
+						"children": 
+						[
+							{
+								"children": 
+								[
+									
+								],
+
+								"fieldMappings": 
+								[
+									{
+										"jsField": "item",
+										"externalField": "Sku",
+										"lookupKey": "itemid",
+										"lookupAllowFailures": false,
+										"lookupSource": "item",
+										"lookupType": "record",
+										"lookupValue": "internalid",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "custcol_celigo_cartonnum",
+										"externalField": "Carton#",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "itemreceive",
+										"hardCodedValue": "T",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "custcol_celigo_istaped",
+										"externalField": "IsTaped",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "quantity",
+										"externalField": "QtyShipped",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									}
+								],
+
+								"celigo_classname": "Celigo.integrator.mapping.model.LineMappingSet"
+							}
+						],
+
+						"collectionIds": 
+						[
+							"item"
+						],
+
+						"celigo_classname": "Celigo.integrator.mapping.model.CollectionMapping"
+					},
+
+					{
+						"children": 
+						[
+							{
+								"children": 
+								[
+									
+								],
+
+								"fieldMappings": 
+								[
+									{
+										"jsField": "packagedescr",
+										"externalField": "Sku",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "packagetrackingnumber",
+										"externalField": "TrackingNumber",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "packageweight",
+										"hardCodedValue": 1,
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									}
+								],
+
+								"celigo_classname": "Celigo.integrator.mapping.model.LineMappingSet"
+							}
+						],
+
+						"collectionIds": 
+						[
+							"package"
+						],
+
+						"celigo_classname": "Celigo.integrator.mapping.model.CollectionMapping"
+					},
+
+					{
+						"children": 
+						[
+							{
+								"children": 
+								[
+									
+								],
+
+								"fieldMappings": 
+								[
+									{
+										"jsField": "packagedescrups",
+										"externalField": "Sku",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "packagetrackingnumberups",
+										"externalField": "TrackingNumber",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "packageweightups",
+										"hardCodedValue": 1,
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									}
+								],
+
+								"celigo_classname": "Celigo.integrator.mapping.model.LineMappingSet"
+							}
+						],
+
+						"collectionIds": 
+						[
+							"packageups"
+						],
+
+						"celigo_classname": "Celigo.integrator.mapping.model.CollectionMapping"
+					},
+
+					{
+						"children": 
+						[
+							{
+								"children": 
+								[
+									
+								],
+
+								"fieldMappings": 
+								[
+									{
+										"jsField": "packagedescrfedex",
+										"externalField": "Sku",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "packagetrackingnumberfedex",
+										"externalField": "TrackingNumber",
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									},
+
+									{
+										"jsField": "packageweightfedex",
+										"hardCodedValue": 1,
+										"celigo_classname": "Celigo.integrator.mapping.model.FieldMapping"
+									}
+								],
+
+								"celigo_classname": "Celigo.integrator.mapping.model.LineMappingSet"
+							}
+						],
+
+						"collectionIds": 
+						[
+							"packagefedex"
+						],
+
+						"celigo_classname": "Celigo.integrator.mapping.model.CollectionMapping"
+					}
+				],
+
+				"recordIdentifiers": 
+				{
+					"keyColumns": 
+					[
+						"SO#"
+					],
+
+					"celigo_classname": "Celigo.integrator.mapping.model.KeyColumnRecordIdentifier"
+				},
+
+				"recordType": "itemfulfillment",
+				"celigo_classname": "Celigo.integrator.mapping.model.RecordMapping"
+			}
+		],
+
+		"staticLookupMaps": 
+		{
+			"priority": 
+			{
+				"1": "1-Must Ship",
+				"2": "2-Samples",
+				"3": "3-Regular",
+				"4": "4-EDI",
+				"5": "4-EDI",
+				"12": "12-Purolator"
+			},
+
+			"IKbk0MVeT6kq1kLj": 
+			{
+				"UPS1": 719
+			}
+		},
+
+		"fieldDelimiter": "|",
+		"lineDelimiter": "\n",
+		"fileHasHeaders": true,
+		"celigo_classname": "Celigo.integrator.mapping.model.CsvFileMapping",
+		"uiProperties": 
+		{
+			"generatedFromUI": true,
+			"mappingType": "INBOUND",
+			"action": "create",
+			"mapper": "Celigo.core.mapping.csv.MultiLineCSVMapper",
+			"name": "Ship Confirmations Import",
+			"sampleFileId": "2174",
+			"sampleFileURL": "/core/media/media.nl?id=2174&c=1030418&h=a5a35b789ee1ed8fa446&mv=iib9tsc0&_xt=.csv"
+		}
+	},
+
+	"operationMappings": 
+	{
+		"itemfulfillment": 
+		{
+			"operation": "add"
+		}
+	},
+
+	"generatedFromUI": true,
+	"uiProperties": 
+	{
+		"operationMappings": 
+		{
+			"itemfulfillment": "wIfBjOiMprjvEnpG"
+		},
+
+		"subMappings": 
+		{
+			"wIfBjOiMprjvEnpG": 
+			[
+				
+			]
+		},
+
+		"frequency": "MANUAL",
+		"flowSchedule": "",
+		"monday": "MONDAY",
+		"tuesday": "TUESDAY",
+		"wednesday": "WEDNESDAY",
+		"thursday": "THURSDAY",
+		"friday": "FRIDAY",
+		"ui_mapping": "wIfBjOiMprjvEnpG"
+	}
+}
